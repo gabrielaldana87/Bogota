@@ -1,0 +1,43 @@
+{
+  "name": "estratos",
+  "version": "1.0.0",
+  "description": "estratos de ciudadedes en Colombia",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Aldana",
+  "license": "ISC",
+  "dependencies": {
+    "@rematch/core": "^2.1.1",
+    "@rematch/select": "^3.1.2",
+    "axios": "^0.26.1",
+    "chroma-js": "^2.4.2",
+    "create-react-app": "^4.0.3",
+    "d3": "^7.1.1",
+    "d3-array": "^3.1.1",
+    "lodash": "^4.17.21",
+    "ndjson-cli": "^0.3.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-redux": "^7.2.6",
+    "react-scripts": "^4.0.3",
+    "react-select": "^5.1.0",
+    "topojson": "^3.0.2",
+    "topojson-server": "^3.0.1",
+    "underscore": "^1.13.2"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
