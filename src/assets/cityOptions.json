@@ -1,0 +1,7 @@
+{
+  "options": [
+    {  "value": "Bogota", "label": "Bogotá" },
+    {  "value": "Medellin", "label": "Medellín" },
+    {  "value": "Cali", "label": "Cali" }
+  ]
+}

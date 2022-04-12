@@ -1,0 +1,118 @@
+{
+  "points": [{
+    "name": "Grace Hotel",
+    "coordinates": [-74.058042, 4.649853],
+    "type": "HOTELS",
+    "fill": "crimson",
+    "sector": "GRANADA"
+  },{
+    "name": "Masa 70",
+    "coordinates": [-74.0550052, 4.651682],
+    "type": "BREAKFAST",
+    "sector":"EMAUS",
+    "fill": "#4390B4"
+  },{
+    "name": "Village Café",
+    "coordinates": [-74.0604198, 4.6492989],
+    "type": "BARS",
+    "fill": "#5E50A2",
+    "sector": "CHAPINERO NORTE",
+    "text_anchor": "end"
+  },{
+    "name": "Zona G Fitness",
+    "coordinates": [-74.0560629, 4.6488893],
+    "type": "FITNESS",
+    "fill": "#FDAE61",
+    "sector": "GRANADA"
+  },{
+    "name": "Wok",
+    "coordinates": [-74.05881, 4.65353],
+    "type": "RESTAURANTS",
+    "fill": "#4390B4",
+    "sector": "QUINTA CAMACHO",
+    "text_anchor": "end"
+  },{
+    "name": "Theatron",
+    "coordinates": [-74.063764, 4.644929],
+    "type": "NIGHTLIFE",
+    "fill": "#5E50A2",
+    "sector": "CHAPINERO CENTRAL"
+  },{
+    "name": "Maison Kayser",
+    "coordinates": [-74.0557444, 4.6525602],
+    "type": "BREAKFAST",
+    "sector":"EMAUS",
+    "fill": "#4390B4"
+  },{
+    "name": "Hotel NH Bogotá Boheme Royal",
+    "coordinates": [-74.054417, 4.666673],
+    "type": "BREAKFAST",
+    "sector": "EL RETIRO",
+    "fill": "#4390B4"
+  },{
+    "name": "Four Seasons",
+    "coordinates": [-74.056494, 4.652463],
+    "type": "HOTELS",
+    "fill": "crimson",
+    "sector": "EMAUS",
+    "text_anchor": "end"
+  },{
+    "name": "Starbucks",
+    "coordinates": [-74.059000, 4.651500],
+    "type": "COFFEE SHOPS",
+    "sector": "QUINTA CAMACHO",
+    "fill": "steelblue"
+  },{
+    "name": "Casa Arsenal",
+    "coordinates": [-74.057600, 4.650500],
+    "type": "RESTAURANTS",
+    "sector": "GRANADA",
+    "fill": "#4390B4"
+  },{
+    "name": "Crepes Del Otro Mundo",
+    "coordinates": [-74.06161, 4.64685],
+    "type": "BREAKFAST",
+    "sector": "GRANADA",
+    "fill": "#4390B4",
+    "sector": "CHAPINERO CENTRAL",
+    "text_anchor": "end"
+  },{
+    "name": "Carulla",
+    "coordinates": [-74.06024, 4.64791],
+    "type": "SUPERMARKETS",
+    "fill": "pink",
+    "sector": "CHAPINERO NORTE"
+  },{
+    "name": "Quebrada La Vieja",
+    "coordinates": [-74.04835, 4.64986],
+    "type": "outdoor",
+    "fill": "lime",
+    "sector": "BELLAVISTA"
+  },{
+    "name": "Stark Gym",
+    "coordinates": [-74.05897, 4.65009],
+    "type": "FITNESS",
+    "fill": "#FDAE61",
+    "sector": "CHAPINERO NORTE",
+    "text_anchor": "end"
+  },{
+    "name": "Contracorriente",
+    "coordinates": [-74.05786, 4.64861],
+    "type": "RESTAURANTS",
+    "fill": "#4390B4",
+    "text_anchor": "end",
+    "sector": "GRANADA"
+  },{
+    "name": "Market Alpina",
+    "coordinates": [-74.05361, 4.66133],
+    "type": "SUPERMARKETS",
+    "fill": "pink",
+    "sector": "EL NOGAL"
+  },{
+    "name": "Masa 81",
+    "coordinates": [-74.05176, 4.66424],
+    "type": "BREAKFAST",
+    "sector":"EL NOGAL",
+    "fill": "#4390B4"
+  }]
+}
