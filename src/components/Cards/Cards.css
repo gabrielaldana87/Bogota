@@ -1,0 +1,4 @@
+div.cards-container {
+    grid-column: 11 / 14;
+    grid-row: 3 / 14;
+}

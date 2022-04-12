@@ -1,0 +1,42 @@
+
+div.concept-container {
+    grid-column: 1 / 4;
+    grid-row: 2 / 3;
+    display: flex;
+}
+
+div.div-buttons {
+    position: relative;
+}
+
+div.div-buttons.selected {
+    border-bottom: 2px solid rgb(34, 34, 34);
+    height: 55%;
+}
+
+button.buttons {
+    text-align: center;
+    border: none;
+    outline: none;
+    margin: 6px 6px 6px 6px;
+    font-family: 'Avenir Next';
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 600;
+    border-radius: 8px;
+    background: transparent;
+    color: rgb(113, 113, 113);
+    padding: 10px;
+    transition: box-shadow 0.2s ease 0s, -ms-transform 0.1s ease 0s, -webkit-transform 0.1s ease 0s, transform 0.1s ease 0s;
+    cursor: pointer;
+}
+
+button.buttons:hover {
+    background: rgb(247, 247, 247);
+}
+
+button.buttons.selected {
+    cursor: default;
+    background: rgb(255, 255, 255);
+    color: rgb(34, 34, 34);
+}

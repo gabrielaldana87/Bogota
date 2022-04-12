@@ -1,0 +1,14 @@
+div.dropdown-div {
+    margin-top: 20px;
+    grid-column: 4 / 6;
+    grid-row: 2 / 3;
+}
+div.css-qc6sy-singleValue, div.inner-divs__menu {
+    font-family: 'Avenir Next';
+}
+div.tile-container {
+    float: left;
+}
+div.tile-container h6 {
+    margin: 0px 0px 0px 5px;
+}

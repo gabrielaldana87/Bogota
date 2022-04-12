@@ -1,0 +1,12 @@
+div.title-container {
+    grid-column: 1 / 13;
+    grid-row: 1 / 2;
+}
+
+h1, h2 {
+    font-family: 'Avenir Next';
+}
+div.city-name h2 {
+    color: lightgray;
+    color: darkgray;
+}

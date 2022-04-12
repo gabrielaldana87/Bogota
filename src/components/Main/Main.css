@@ -1,0 +1,4 @@
+div#city-container {
+    grid-column: 1 / 10;
+    grid-row: 3 / 12;
+}
