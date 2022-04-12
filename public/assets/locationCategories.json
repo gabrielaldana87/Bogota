@@ -1,0 +1,12 @@
+{
+  "categories" : [
+    { "value": "restaurants", "label": "restaurants", "color": "#4390B4"},
+    { "value": "coffee_shops", "label": "coffee shops", "color": "steelblue"},
+    { "value": "breakfast", "label": "breakfast", "color": "#4390B4"},
+    { "value": "bars", "label": "bars", "color": "#5E50A2"},
+    { "value": "nightlife", "label": "nightlife", "color": "#4390B4"},
+    { "value": "hotels", "label": "hotels", "color": "crimson"},
+    { "value": "outdoor", "label": "outdoor", "color": "#4056A1"},
+    { "value": "fitness", "label": "fitness" , "color": "#FDAE61"}
+  ]
+}

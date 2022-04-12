@@ -1,0 +1,3848 @@
+{
+"options": [
+  {
+    "value": "ABRAHAM LINCOLN",
+    "label": "ABRAHAM LINCOLN"
+  },
+  {
+    "value": "ALCAZARES NORTE",
+    "label": "ALCAZARES NORTE"
+  },
+  {
+    "value": "ALMIRANTE COLON",
+    "label": "ALMIRANTE COLON"
+  },
+  {
+    "value": "ALTOS DEL ZUQUE",
+    "label": "ALTOS DEL ZUQUE"
+  },
+  {
+    "value": "ANTONIO JOSE DE SUCRE",
+    "label": "ANTONIO JOSE DE SUCRE"
+  },
+  {
+    "value": "ARABIA",
+    "label": "ARABIA"
+  },
+  {
+    "value": "ARGELIA II",
+    "label": "ARGELIA II"
+  },
+  {
+    "value": "ARRAYANES V",
+    "label": "ARRAYANES V"
+  },
+  {
+    "value": "AUTOPISTA MUZU",
+    "label": "AUTOPISTA MUZU"
+  },
+  {
+    "value": "AUTOPISTA MUZU ORIENTAL",
+    "label": "AUTOPISTA MUZU ORIENTAL"
+  },
+  {
+    "value": "AUTOPISTA SUR",
+    "label": "AUTOPISTA SUR"
+  },
+  {
+    "value": "BARRANQUILLITA",
+    "label": "BARRANQUILLITA"
+  },
+  {
+    "value": "BAVARIA",
+    "label": "BAVARIA"
+  },
+  {
+    "value": "BELEN",
+    "label": "BELEN"
+  },
+  {
+    "value": "BELEN FONTIBON",
+    "label": "BELEN FONTIBON"
+  },
+  {
+    "value": "BELLA FLOR",
+    "label": "BELLA FLOR"
+  },
+  {
+    "value": "BELLA FLOR SUR",
+    "label": "BELLA FLOR SUR"
+  },
+  {
+    "value": "BELLA SUIZA",
+    "label": "BELLA SUIZA"
+  },
+  {
+    "value": "BENJAMIN HERRERA",
+    "label": "BENJAMIN HERRERA"
+  },
+  {
+    "value": "BERLIN",
+    "label": "BERLIN"
+  },
+  {
+    "value": "BILBAO",
+    "label": "BILBAO"
+  },
+  {
+    "value": "BOCHICA",
+    "label": "BOCHICA"
+  },
+  {
+    "value": "BOLIVIA",
+    "label": "BOLIVIA"
+  },
+  {
+    "value": "BOSA",
+    "label": "BOSA"
+  },
+  {
+    "value": "BOSQUE DE PINOS",
+    "label": "BOSQUE DE PINOS"
+  },
+  {
+    "value": "BOSQUE IZQUIERDO",
+    "label": "BOSQUE IZQUIERDO"
+  },
+  {
+    "value": "BRASILIA",
+    "label": "BRASILIA"
+  },
+  {
+    "value": "BRAZUELOS OCCIDENTAL",
+    "label": "BRAZUELOS OCCIDENTAL"
+  },
+  {
+    "value": "BRISAS ALDEA FONTIBON",
+    "label": "BRISAS ALDEA FONTIBON"
+  },
+  {
+    "value": "BUENAVISTA",
+    "label": "BUENAVISTA"
+  },
+  {
+    "value": "BUENOS AIRES",
+    "label": "BUENOS AIRES"
+  },
+  {
+    "value": "CALLEJON SANTA BARBARA",
+    "label": "CALLEJON SANTA BARBARA"
+  },
+  {
+    "value": "CAMPIN",
+    "label": "CAMPIN"
+  },
+  {
+    "value": "CAPELLANIA",
+    "label": "CAPELLANIA"
+  },
+  {
+    "value": "CARACOLI",
+    "label": "CARACOLI"
+  },
+  {
+    "value": "CASA DE TEJA",
+    "label": "CASA DE TEJA"
+  },
+  {
+    "value": "CASABLANCA",
+    "label": "CASABLANCA"
+  },
+  {
+    "value": "CASABLANCA SUBA URBANO",
+    "label": "CASABLANCA SUBA URBANO"
+  },
+  {
+    "value": "CATALINA",
+    "label": "CATALINA"
+  },
+  {
+    "value": "CEDRITOS DEL SUR",
+    "label": "CEDRITOS DEL SUR"
+  },
+  {
+    "value": "CENTRO ENGATIVA II",
+    "label": "CENTRO ENGATIVA II"
+  },
+  {
+    "value": "CENTRO USME URBANO",
+    "label": "CENTRO USME URBANO"
+  },
+  {
+    "value": "CHARALA",
+    "label": "CHARALA"
+  },
+  {
+    "value": "CHICO NORTE",
+    "label": "CHICO NORTE"
+  },
+  {
+    "value": "CIUDAD HAYUELOS",
+    "label": "CIUDAD HAYUELOS"
+  },
+  {
+    "value": "CIUDAD KENNEDY CENTRAL",
+    "label": "CIUDAD KENNEDY CENTRAL"
+  },
+  {
+    "value": "CIUDAD LONDRES I",
+    "label": "CIUDAD LONDRES I"
+  },
+  {
+    "value": "CIUDAD SALITRE NOR-ORIENTAL",
+    "label": "CIUDAD SALITRE NOR-ORIENTAL"
+  },
+  {
+    "value": "CLARET",
+    "label": "CLARET"
+  },
+  {
+    "value": "CLUB DE LOS LAGARTOS",
+    "label": "CLUB DE LOS LAGARTOS"
+  },
+  {
+    "value": "COLON",
+    "label": "COLON"
+  },
+  {
+    "value": "COMUNEROS",
+    "label": "COMUNEROS"
+  },
+  {
+    "value": "COSTA AZUL",
+    "label": "COSTA AZUL"
+  },
+  {
+    "value": "DANUBIO II",
+    "label": "DANUBIO II"
+  },
+  {
+    "value": "DESARROLLO BRAZUELOS",
+    "label": "DESARROLLO BRAZUELOS"
+  },
+  {
+    "value": "DOCE DE OCTUBRE",
+    "label": "DOCE DE OCTUBRE"
+  },
+  {
+    "value": "EL CONTADOR",
+    "label": "EL CONTADOR"
+  },
+  {
+    "value": "EL CORZO",
+    "label": "EL CORZO"
+  },
+  {
+    "value": "EL JAZMIN",
+    "label": "EL JAZMIN"
+  },
+  {
+    "value": "EL MINUTO DE DIOS",
+    "label": "EL MINUTO DE DIOS"
+  },
+  {
+    "value": "EL MIRADOR",
+    "label": "EL MIRADOR"
+  },
+  {
+    "value": "EL MOCHUELO",
+    "label": "EL MOCHUELO"
+  },
+  {
+    "value": "EL NUEVO PORTAL",
+    "label": "EL NUEVO PORTAL"
+  },
+  {
+    "value": "EL PARAISO",
+    "label": "EL PARAISO"
+  },
+  {
+    "value": "EL PINAR",
+    "label": "EL PINAR"
+  },
+  {
+    "value": "EL PLAN",
+    "label": "EL PLAN"
+  },
+  {
+    "value": "EL POA",
+    "label": "EL POA"
+  },
+  {
+    "value": "EL PORTAL DEL DIVINO",
+    "label": "EL PORTAL DEL DIVINO"
+  },
+  {
+    "value": "EL PROGRESO",
+    "label": "EL PROGRESO"
+  },
+  {
+    "value": "EL RETAZO",
+    "label": "EL RETAZO"
+  },
+  {
+    "value": "EL RINCON",
+    "label": "EL RINCON"
+  },
+  {
+    "value": "EL TINTAL CENTRAL",
+    "label": "EL TINTAL CENTRAL"
+  },
+  {
+    "value": "EL VERVENAL",
+    "label": "EL VERVENAL"
+  },
+  {
+    "value": "EL VIRREY",
+    "label": "EL VIRREY"
+  },
+  {
+    "value": "ESCOCIA",
+    "label": "ESCOCIA"
+  },
+  {
+    "value": "ESPARTILLAL",
+    "label": "ESPARTILLAL"
+  },
+  {
+    "value": "ESTRELLA DEL NORTE",
+    "label": "ESTRELLA DEL NORTE"
+  },
+  {
+    "value": "ESTRELLA DEL SUR",
+    "label": "ESTRELLA DEL SUR"
+  },
+  {
+    "value": "FATIMA",
+    "label": "FATIMA"
+  },
+  {
+    "value": "FLORIDA BLANCA",
+    "label": "FLORIDA BLANCA"
+  },
+  {
+    "value": "GALAN",
+    "label": "GALAN"
+  },
+  {
+    "value": "GIBRALTAR SUR",
+    "label": "GIBRALTAR SUR"
+  },
+  {
+    "value": "GIRARDOT",
+    "label": "GIRARDOT"
+  },
+  {
+    "value": "GRAN COLOMBIANO",
+    "label": "GRAN COLOMBIANO"
+  },
+  {
+    "value": "GRANADA SUR",
+    "label": "GRANADA SUR"
+  },
+  {
+    "value": "GUADUAL FONTIBON",
+    "label": "GUADUAL FONTIBON"
+  },
+  {
+    "value": "GUALOCHE",
+    "label": "GUALOCHE"
+  },
+  {
+    "value": "HIPOTECHO",
+    "label": "HIPOTECHO"
+  },
+  {
+    "value": "HIPOTECHO SUR",
+    "label": "HIPOTECHO SUR"
+  },
+  {
+    "value": "INGLES",
+    "label": "INGLES"
+  },
+  {
+    "value": "ISLA DEL SOL",
+    "label": "ISLA DEL SOL"
+  },
+  {
+    "value": "JARDIN BOTANICO",
+    "label": "JARDIN BOTANICO"
+  },
+  {
+    "value": "JORGE ELIECER GAITAN",
+    "label": "JORGE ELIECER GAITAN"
+  },
+  {
+    "value": "JOSE ANTONIO GALAN",
+    "label": "JOSE ANTONIO GALAN"
+  },
+  {
+    "value": "JUAN JOSE RONDON",
+    "label": "JUAN JOSE RONDON"
+  },
+  {
+    "value": "JUAN JOSE RONDON I",
+    "label": "JUAN JOSE RONDON I"
+  },
+  {
+    "value": "JUAN REY (LA PAZ)",
+    "label": "JUAN REY (LA PAZ)"
+  },
+  {
+    "value": "JUAN REY SUR",
+    "label": "JUAN REY SUR"
+  },
+  {
+    "value": "JUAN XXIII",
+    "label": "JUAN XXIII"
+  },
+  {
+    "value": "LA ALAMEDA",
+    "label": "LA ALAMEDA"
+  },
+  {
+    "value": "LA AURORA",
+    "label": "LA AURORA"
+  },
+  {
+    "value": "LA CABANA FONTIBON",
+    "label": "LA CABANA FONTIBON"
+  },
+  {
+    "value": "LA CALLEJA",
+    "label": "LA CALLEJA"
+  },
+  {
+    "value": "LA CAMELIA",
+    "label": "LA CAMELIA"
+  },
+  {
+    "value": "LA CAMELIA II",
+    "label": "LA CAMELIA II"
+  },
+  {
+    "value": "LA CAROLINA DE SUBA",
+    "label": "LA CAROLINA DE SUBA"
+  },
+  {
+    "value": "LA CASTELLANA",
+    "label": "LA CASTELLANA"
+  },
+  {
+    "value": "LA CECILIA",
+    "label": "LA CECILIA"
+  },
+  {
+    "value": "LA CHUCUA",
+    "label": "LA CHUCUA"
+  },
+  {
+    "value": "LA CITA",
+    "label": "LA CITA"
+  },
+  {
+    "value": "LA ESPERANZA DE USME",
+    "label": "LA ESPERANZA DE USME"
+  },
+  {
+    "value": "LA ESPERANZA NORTE",
+    "label": "LA ESPERANZA NORTE"
+  },
+  {
+    "value": "LA ESPERANZA SUR",
+    "label": "LA ESPERANZA SUR"
+  },
+  {
+    "value": "LA ESTACION BOSA",
+    "label": "LA ESTACION BOSA"
+  },
+  {
+    "value": "LA ESTRADA",
+    "label": "LA ESTRADA"
+  },
+  {
+    "value": "LA ESTRELLITA I",
+    "label": "LA ESTRELLITA I"
+  },
+  {
+    "value": "LA FAVORITA",
+    "label": "LA FAVORITA"
+  },
+  {
+    "value": "LA FISCALA",
+    "label": "LA FISCALA"
+  },
+  {
+    "value": "LA HUERTA",
+    "label": "LA HUERTA"
+  },
+  {
+    "value": "LA INDEPENDENCIA",
+    "label": "LA INDEPENDENCIA"
+  },
+  {
+    "value": "LA LIBERTAD",
+    "label": "LA LIBERTAD"
+  },
+  {
+    "value": "LA MERCED NORTE",
+    "label": "LA MERCED NORTE"
+  },
+  {
+    "value": "LA ORQUIDEA DE USME",
+    "label": "LA ORQUIDEA DE USME"
+  },
+  {
+    "value": "LA PATRIA",
+    "label": "LA PATRIA"
+  },
+  {
+    "value": "LA PAZ",
+    "label": "LA PAZ"
+  },
+  {
+    "value": "LA PRADERA",
+    "label": "LA PRADERA"
+  },
+  {
+    "value": "LA REFORMA",
+    "label": "LA REFORMA"
+  },
+  {
+    "value": "LA RESURRECCION I",
+    "label": "LA RESURRECCION I"
+  },
+  {
+    "value": "LA TRINIDAD",
+    "label": "LA TRINIDAD"
+  },
+  {
+    "value": "LA VICTORIA",
+    "label": "LA VICTORIA"
+  },
+  {
+    "value": "LAGO GAITAN",
+    "label": "LAGO GAITAN"
+  },
+  {
+    "value": "LAS AGUAS",
+    "label": "LAS AGUAS"
+  },
+  {
+    "value": "LAS BRISAS",
+    "label": "LAS BRISAS"
+  },
+  {
+    "value": "LAS DELICIAS",
+    "label": "LAS DELICIAS"
+  },
+  {
+    "value": "LAS FLORES",
+    "label": "LAS FLORES"
+  },
+  {
+    "value": "LAS GUACAMAYAS I",
+    "label": "LAS GUACAMAYAS I"
+  },
+  {
+    "value": "LAS MARGARITAS",
+    "label": "LAS MARGARITAS"
+  },
+  {
+    "value": "LAS ORQUIDEAS",
+    "label": "LAS ORQUIDEAS"
+  },
+  {
+    "value": "LOS ALPES",
+    "label": "LOS ALPES"
+  },
+  {
+    "value": "LOS CEDROS",
+    "label": "LOS CEDROS"
+  },
+  {
+    "value": "LOS EJIDOS",
+    "label": "LOS EJIDOS"
+  },
+  {
+    "value": "LOURDES",
+    "label": "LOURDES"
+  },
+  {
+    "value": "LUCERO ALTO",
+    "label": "LUCERO ALTO"
+  },
+  {
+    "value": "LUCERO DEL SUR",
+    "label": "LUCERO DEL SUR"
+  },
+  {
+    "value": "MADELENA",
+    "label": "MADELENA"
+  },
+  {
+    "value": "MARRUECOS",
+    "label": "MARRUECOS"
+  },
+  {
+    "value": "MARSELLA",
+    "label": "MARSELLA"
+  },
+  {
+    "value": "MODELO SUR",
+    "label": "MODELO SUR"
+  },
+  {
+    "value": "MOLINOS DEL SUR",
+    "label": "MOLINOS DEL SUR"
+  },
+  {
+    "value": "MONACO",
+    "label": "MONACO"
+  },
+  {
+    "value": "NORMANDIA OCCIDENTAL",
+    "label": "NORMANDIA OCCIDENTAL"
+  },
+  {
+    "value": "NUEVA GRANADA BOSA",
+    "label": "NUEVA GRANADA BOSA"
+  },
+  {
+    "value": "NUEVA ZELANDIA",
+    "label": "NUEVA ZELANDIA"
+  },
+  {
+    "value": "NUEVO MUZU",
+    "label": "NUEVO MUZU"
+  },
+  {
+    "value": "OSPINA PEREZ",
+    "label": "OSPINA PEREZ"
+  },
+  {
+    "value": "OSPINA PEREZ SUR",
+    "label": "OSPINA PEREZ SUR"
+  },
+  {
+    "value": "PALOQUEMAO",
+    "label": "PALOQUEMAO"
+  },
+  {
+    "value": "PARIS",
+    "label": "PARIS"
+  },
+  {
+    "value": "PARIS GAITAN",
+    "label": "PARIS GAITAN"
+  },
+  {
+    "value": "POPULAR MODELO",
+    "label": "POPULAR MODELO"
+  },
+  {
+    "value": "POTOSI",
+    "label": "POTOSI"
+  },
+  {
+    "value": "PROVIVIENDA NORTE",
+    "label": "PROVIVIENDA NORTE"
+  },
+  {
+    "value": "PROVIVIENDA ORIENTAL",
+    "label": "PROVIVIENDA ORIENTAL"
+  },
+  {
+    "value": "PUERTA DEL SOL",
+    "label": "PUERTA DEL SOL"
+  },
+  {
+    "value": "PUERTO RICO",
+    "label": "PUERTO RICO"
+  },
+  {
+    "value": "QUIBA I",
+    "label": "QUIBA I"
+  },
+  {
+    "value": "QUIBA URBANO",
+    "label": "QUIBA URBANO"
+  },
+  {
+    "value": "QUINDIO",
+    "label": "QUINDIO"
+  },
+  {
+    "value": "QUINTA CAMACHO",
+    "label": "QUINTA CAMACHO"
+  },
+  {
+    "value": "QUINTA PAREDES",
+    "label": "QUINTA PAREDES"
+  },
+  {
+    "value": "QUIRIGUA II",
+    "label": "QUIRIGUA II"
+  },
+  {
+    "value": "QUIROGA I",
+    "label": "QUIROGA I"
+  },
+  {
+    "value": "QUIROGA SUR",
+    "label": "QUIROGA SUR"
+  },
+  {
+    "value": "RAFAEL URIBE",
+    "label": "RAFAEL URIBE"
+  },
+  {
+    "value": "REMANSO",
+    "label": "REMANSO"
+  },
+  {
+    "value": "RESTREPO",
+    "label": "RESTREPO"
+  },
+  {
+    "value": "RICAURTE",
+    "label": "RICAURTE"
+  },
+  {
+    "value": "RINCON DE SANTA INES",
+    "label": "RINCON DE SANTA INES"
+  },
+  {
+    "value": "RIONEGRO",
+    "label": "RIONEGRO"
+  },
+  {
+    "value": "RONDA",
+    "label": "RONDA"
+  },
+  {
+    "value": "SALAZAR GOMEZ",
+    "label": "SALAZAR GOMEZ"
+  },
+  {
+    "value": "SALITRE OCCIDENTAL",
+    "label": "SALITRE OCCIDENTAL"
+  },
+  {
+    "value": "SAN AGUSTIN",
+    "label": "SAN AGUSTIN"
+  },
+  {
+    "value": "SAN ANTONIO",
+    "label": "SAN ANTONIO"
+  },
+  {
+    "value": "SAN ANTONIO ENGATIVA",
+    "label": "SAN ANTONIO ENGATIVA"
+  },
+  {
+    "value": "SAN ANTONIO NOROCCIDENTAL",
+    "label": "SAN ANTONIO NOROCCIDENTAL"
+  },
+  {
+    "value": "SAN ANTONIO URBANO",
+    "label": "SAN ANTONIO URBANO"
+  },
+  {
+    "value": "SAN BERNARDINO",
+    "label": "SAN BERNARDINO"
+  },
+  {
+    "value": "SAN BERNARDINO POTRERITOS",
+    "label": "SAN BERNARDINO POTRERITOS"
+  },
+  {
+    "value": "SAN BLAS",
+    "label": "SAN BLAS"
+  },
+  {
+    "value": "SAN BLAS II",
+    "label": "SAN BLAS II"
+  },
+  {
+    "value": "SAN CARLOS DE SUBA",
+    "label": "SAN CARLOS DE SUBA"
+  },
+  {
+    "value": "SAN CRISTOBAL SUR",
+    "label": "SAN CRISTOBAL SUR"
+  },
+  {
+    "value": "SAN EUSEBIO",
+    "label": "SAN EUSEBIO"
+  },
+  {
+    "value": "SAN FERNANDO",
+    "label": "SAN FERNANDO"
+  },
+  {
+    "value": "SAN FERNANDO OCCIDENTAL",
+    "label": "SAN FERNANDO OCCIDENTAL"
+  },
+  {
+    "value": "SAN GABRIEL",
+    "label": "SAN GABRIEL"
+  },
+  {
+    "value": "SAN JOAQUIN",
+    "label": "SAN JOAQUIN"
+  },
+  {
+    "value": "SAN JOSE DE BAVARIA",
+    "label": "SAN JOSE DE BAVARIA"
+  },
+  {
+    "value": "SAN JOSE SUR ORIENTAL",
+    "label": "SAN JOSE SUR ORIENTAL"
+  },
+  {
+    "value": "SAN LUIS",
+    "label": "SAN LUIS"
+  },
+  {
+    "value": "SAN PABLO BOSA",
+    "label": "SAN PABLO BOSA"
+  },
+  {
+    "value": "SAN PABLO JERICO",
+    "label": "SAN PABLO JERICO"
+  },
+  {
+    "value": "SAN PATRICIO",
+    "label": "SAN PATRICIO"
+  },
+  {
+    "value": "SAN PEDRO",
+    "label": "SAN PEDRO"
+  },
+  {
+    "value": "SAN RAFAEL",
+    "label": "SAN RAFAEL"
+  },
+  {
+    "value": "SAN RAFAEL USME",
+    "label": "SAN RAFAEL USME"
+  },
+  {
+    "value": "SAN VICENTE",
+    "label": "SAN VICENTE"
+  },
+  {
+    "value": "SANTA BARBARA OCCIDENTAL",
+    "label": "SANTA BARBARA OCCIDENTAL"
+  },
+  {
+    "value": "SANTA BIBIANA",
+    "label": "SANTA BIBIANA"
+  },
+  {
+    "value": "SANTA CATALINA",
+    "label": "SANTA CATALINA"
+  },
+  {
+    "value": "SANTA CECILIA",
+    "label": "SANTA CECILIA"
+  },
+  {
+    "value": "SANTA FE",
+    "label": "SANTA FE"
+  },
+  {
+    "value": "SANTA INES SUR",
+    "label": "SANTA INES SUR"
+  },
+  {
+    "value": "SANTA INES SUR II",
+    "label": "SANTA INES SUR II"
+  },
+  {
+    "value": "SANTA MARIA",
+    "label": "SANTA MARIA"
+  },
+  {
+    "value": "SANTA RITA SUR ORIENTAL",
+    "label": "SANTA RITA SUR ORIENTAL"
+  },
+  {
+    "value": "SANTANDER SUR",
+    "label": "SANTANDER SUR"
+  },
+  {
+    "value": "SANTO DOMINGO",
+    "label": "SANTO DOMINGO"
+  },
+  {
+    "value": "SERRANIAS I",
+    "label": "SERRANIAS I"
+  },
+  {
+    "value": "SUBA CERROS",
+    "label": "SUBA CERROS"
+  },
+  {
+    "value": "SUBA URBANO",
+    "label": "SUBA URBANO"
+  },
+  {
+    "value": "SUMAPAZ",
+    "label": "SUMAPAZ"
+  },
+  {
+    "value": "TEJAR",
+    "label": "TEJAR"
+  },
+  {
+    "value": "TERMINAL DE TRANSPORTES",
+    "label": "TERMINAL DE TRANSPORTES"
+  },
+  {
+    "value": "TIBANA",
+    "label": "TIBANA"
+  },
+  {
+    "value": "TIMIZA",
+    "label": "TIMIZA"
+  },
+  {
+    "value": "TIMIZA C",
+    "label": "TIMIZA C"
+  },
+  {
+    "value": "TUNA ALTA",
+    "label": "TUNA ALTA"
+  },
+  {
+    "value": "TUNA BAJA",
+    "label": "TUNA BAJA"
+  },
+  {
+    "value": "USMINIA",
+    "label": "USMINIA"
+  },
+  {
+    "value": "VERGEL OCCIDENTAL",
+    "label": "VERGEL OCCIDENTAL"
+  },
+  {
+    "value": "VILLA CARMENZA",
+    "label": "VILLA CARMENZA"
+  },
+  {
+    "value": "VILLA DEL CERRO",
+    "label": "VILLA DEL CERRO"
+  },
+  {
+    "value": "VILLA DEL MAR",
+    "label": "VILLA DEL MAR"
+  },
+  {
+    "value": "VILLA DIANA",
+    "label": "VILLA DIANA"
+  },
+  {
+    "value": "VILLA GLORIA",
+    "label": "VILLA GLORIA"
+  },
+  {
+    "value": "VILLA ISRAEL",
+    "label": "VILLA ISRAEL"
+  },
+  {
+    "value": "VILLA MARIA I",
+    "label": "VILLA MARIA I"
+  },
+  {
+    "value": "VILLA MAYOR",
+    "label": "VILLA MAYOR"
+  },
+  {
+    "value": "VILLABEL",
+    "label": "VILLABEL"
+  },
+  {
+    "value": "VILLAS DE GRANADA I",
+    "label": "VILLAS DE GRANADA I"
+  },
+  {
+    "value": "VILLEMAR",
+    "label": "VILLEMAR"
+  },
+  {
+    "value": "YOMASA",
+    "label": "YOMASA"
+  },
+  {
+    "value": null,
+    "label": null
+  },
+  {
+    "value": "ACACIAS USAQUEN",
+    "label": "ACACIAS USAQUEN"
+  },
+  {
+    "value": "ACEVEDO TEJADA",
+    "label": "ACEVEDO TEJADA"
+  },
+  {
+    "value": "AEROPUERTO EL DORADO",
+    "label": "AEROPUERTO EL DORADO"
+  },
+  {
+    "value": "ALAMOS",
+    "label": "ALAMOS"
+  },
+  {
+    "value": "ALASKA",
+    "label": "ALASKA"
+  },
+  {
+    "value": "ALCALA",
+    "label": "ALCALA"
+  },
+  {
+    "value": "ALCAZARES",
+    "label": "ALCAZARES"
+  },
+  {
+    "value": "ALFONSO LOPEZ",
+    "label": "ALFONSO LOPEZ"
+  },
+  {
+    "value": "ALQUERIA",
+    "label": "ALQUERIA"
+  },
+  {
+    "value": "ALQUERIA LA FRAGUA",
+    "label": "ALQUERIA LA FRAGUA"
+  },
+  {
+    "value": "ALQUERIA LA FRAGUA II",
+    "label": "ALQUERIA LA FRAGUA II"
+  },
+  {
+    "value": "ALQUERIA LA FRAGUA NORTE",
+    "label": "ALQUERIA LA FRAGUA NORTE"
+  },
+  {
+    "value": "ALTAMIRA",
+    "label": "ALTAMIRA"
+  },
+  {
+    "value": "ALTOS DE CHOZICA",
+    "label": "ALTOS DE CHOZICA"
+  },
+  {
+    "value": "ALTOS DE SUBA",
+    "label": "ALTOS DE SUBA"
+  },
+  {
+    "value": "ALTOS DEL POBLADO",
+    "label": "ALTOS DEL POBLADO"
+  },
+  {
+    "value": "ALTOS DEL ZIPA",
+    "label": "ALTOS DEL ZIPA"
+  },
+  {
+    "value": "ANDALUCIA II",
+    "label": "ANDALUCIA II"
+  },
+  {
+    "value": "ANDES NORTE",
+    "label": "ANDES NORTE"
+  },
+  {
+    "value": "ANTIGUO COUNTRY",
+    "label": "ANTIGUO COUNTRY"
+  },
+  {
+    "value": "ANTONIA SANTOS",
+    "label": "ANTONIA SANTOS"
+  },
+  {
+    "value": "ARBOLEDA SANTA TERESITA",
+    "label": "ARBOLEDA SANTA TERESITA"
+  },
+  {
+    "value": "ARBOLEDA SUR",
+    "label": "ARBOLEDA SUR"
+  },
+  {
+    "value": "ARBORIZADORA ALTA",
+    "label": "ARBORIZADORA ALTA"
+  },
+  {
+    "value": "ARBORIZADORA ALTA I",
+    "label": "ARBORIZADORA ALTA I"
+  },
+  {
+    "value": "ARBORIZADORA ALTA II",
+    "label": "ARBORIZADORA ALTA II"
+  },
+  {
+    "value": "ARBORIZADORA BAJA",
+    "label": "ARBORIZADORA BAJA"
+  },
+  {
+    "value": "AREA ARTILLERIA",
+    "label": "AREA ARTILLERIA"
+  },
+  {
+    "value": "ARMENIA",
+    "label": "ARMENIA"
+  },
+  {
+    "value": "ARRAYANES I",
+    "label": "ARRAYANES I"
+  },
+  {
+    "value": "ARRAYANES VI",
+    "label": "ARRAYANES VI"
+  },
+  {
+    "value": "ATAHUALPA",
+    "label": "ATAHUALPA"
+  },
+  {
+    "value": "ATENAS",
+    "label": "ATENAS"
+  },
+  {
+    "value": "ATLANTA",
+    "label": "ATLANTA"
+  },
+  {
+    "value": "AURES",
+    "label": "AURES"
+  },
+  {
+    "value": "AURES II",
+    "label": "AURES II"
+  },
+  {
+    "value": "AUTOPISTA MEDELLIN",
+    "label": "AUTOPISTA MEDELLIN"
+  },
+  {
+    "value": "BANCO CENTRAL",
+    "label": "BANCO CENTRAL"
+  },
+  {
+    "value": "BAQUERO",
+    "label": "BAQUERO"
+  },
+  {
+    "value": "BARAJAS NORTE",
+    "label": "BARAJAS NORTE"
+  },
+  {
+    "value": "BARCELONA",
+    "label": "BARCELONA"
+  },
+  {
+    "value": "BARCELONA SUR",
+    "label": "BARCELONA SUR"
+  },
+  {
+    "value": "BARLOVENTO",
+    "label": "BARLOVENTO"
+  },
+  {
+    "value": "BARRANCAS",
+    "label": "BARRANCAS"
+  },
+  {
+    "value": "BARRANCAS NORTE",
+    "label": "BARRANCAS NORTE"
+  },
+  {
+    "value": "BARRANCAS ORIENTAL RURAL",
+    "label": "BARRANCAS ORIENTAL RURAL"
+  },
+  {
+    "value": "BATAN",
+    "label": "BATAN"
+  },
+  {
+    "value": "BELALCAZAR",
+    "label": "BELALCAZAR"
+  },
+  {
+    "value": "BELLAVISTA",
+    "label": "BELLAVISTA"
+  },
+  {
+    "value": "BELLAVISTA LUCERO ALTO",
+    "label": "BELLAVISTA LUCERO ALTO"
+  },
+  {
+    "value": "BELLAVISTA OCCIDENTAL",
+    "label": "BELLAVISTA OCCIDENTAL"
+  },
+  {
+    "value": "BELLAVISTA SUR",
+    "label": "BELLAVISTA SUR"
+  },
+  {
+    "value": "BELLO HORIZONTE",
+    "label": "BELLO HORIZONTE"
+  },
+  {
+    "value": "BETANIA",
+    "label": "BETANIA"
+  },
+  {
+    "value": "BOCHICA II",
+    "label": "BOCHICA II"
+  },
+  {
+    "value": "BOITA",
+    "label": "BOITA"
+  },
+  {
+    "value": "BOLIVIA ORIENTAL",
+    "label": "BOLIVIA ORIENTAL"
+  },
+  {
+    "value": "BOLONIA",
+    "label": "BOLONIA"
+  },
+  {
+    "value": "BOLONIA I",
+    "label": "BOLONIA I"
+  },
+  {
+    "value": "BONANZA",
+    "label": "BONANZA"
+  },
+  {
+    "value": "BOSA NOVA",
+    "label": "BOSA NOVA"
+  },
+  {
+    "value": "BOSA NOVA EL PORVENIR",
+    "label": "BOSA NOVA EL PORVENIR"
+  },
+  {
+    "value": "BOSQUE CALDERON",
+    "label": "BOSQUE CALDERON"
+  },
+  {
+    "value": "BOSQUE DE LOS ALPES",
+    "label": "BOSQUE DE LOS ALPES"
+  },
+  {
+    "value": "BOSQUE DE MODELIA",
+    "label": "BOSQUE DE MODELIA"
+  },
+  {
+    "value": "BOSQUE DE PINOS I",
+    "label": "BOSQUE DE PINOS I"
+  },
+  {
+    "value": "BOSQUE DE PINOS III",
+    "label": "BOSQUE DE PINOS III"
+  },
+  {
+    "value": "BOSQUE POPULAR",
+    "label": "BOSQUE POPULAR"
+  },
+  {
+    "value": "BOSQUES DE SAN JORGE",
+    "label": "BOSQUES DE SAN JORGE"
+  },
+  {
+    "value": "BOYACA",
+    "label": "BOYACA"
+  },
+  {
+    "value": "BRASIL",
+    "label": "BRASIL"
+  },
+  {
+    "value": "BRAVO PAEZ",
+    "label": "BRAVO PAEZ"
+  },
+  {
+    "value": "BRAZUELOS OCCIDENTAL RURAL",
+    "label": "BRAZUELOS OCCIDENTAL RURAL"
+  },
+  {
+    "value": "BRISAS DEL LLANO",
+    "label": "BRISAS DEL LLANO"
+  },
+  {
+    "value": "BRISAS DEL VOLADOR",
+    "label": "BRISAS DEL VOLADOR"
+  },
+  {
+    "value": "BRITALIA",
+    "label": "BRITALIA"
+  },
+  {
+    "value": "CALANDAIMA",
+    "label": "CALANDAIMA"
+  },
+  {
+    "value": "CALVO SUR",
+    "label": "CALVO SUR"
+  },
+  {
+    "value": "CAMPANELLA",
+    "label": "CAMPANELLA"
+  },
+  {
+    "value": "CAMPIN OCCIDENTAL",
+    "label": "CAMPIN OCCIDENTAL"
+  },
+  {
+    "value": "CAMPO EUCARISTICO",
+    "label": "CAMPO EUCARISTICO"
+  },
+  {
+    "value": "CAMPO HERMOSO",
+    "label": "CAMPO HERMOSO"
+  },
+  {
+    "value": "CAMPO VERDE",
+    "label": "CAMPO VERDE"
+  },
+  {
+    "value": "CANADA O GUIRA",
+    "label": "CANADA O GUIRA"
+  },
+  {
+    "value": "CANAIMA",
+    "label": "CANAIMA"
+  },
+  {
+    "value": "CANAVERALEJO",
+    "label": "CANAVERALEJO"
+  },
+  {
+    "value": "CANDELARIA LA NUEVA",
+    "label": "CANDELARIA LA NUEVA"
+  },
+  {
+    "value": "CANODROMO",
+    "label": "CANODROMO"
+  },
+  {
+    "value": "CANTAGALLO",
+    "label": "CANTAGALLO"
+  },
+  {
+    "value": "CAOBOS SALAZAR",
+    "label": "CAOBOS SALAZAR"
+  },
+  {
+    "value": "CARACAS",
+    "label": "CARACAS"
+  },
+  {
+    "value": "CARMEN DEL SOL",
+    "label": "CARMEN DEL SOL"
+  },
+  {
+    "value": "CASA BLANCA SUBA I",
+    "label": "CASA BLANCA SUBA I"
+  },
+  {
+    "value": "CASA BLANCA SUR",
+    "label": "CASA BLANCA SUR"
+  },
+  {
+    "value": "CASABLANCA SUBA",
+    "label": "CASABLANCA SUBA"
+  },
+  {
+    "value": "CASABLANCA SUBA I",
+    "label": "CASABLANCA SUBA I"
+  },
+  {
+    "value": "CASABLANCA SUBA URBANO I",
+    "label": "CASABLANCA SUBA URBANO I"
+  },
+  {
+    "value": "CASABLANCA SUBA URBANO II",
+    "label": "CASABLANCA SUBA URBANO II"
+  },
+  {
+    "value": "CASTILLA",
+    "label": "CASTILLA"
+  },
+  {
+    "value": "CATALINA II",
+    "label": "CATALINA II"
+  },
+  {
+    "value": "CATALUNA",
+    "label": "CATALUNA"
+  },
+  {
+    "value": "CEDRITOS",
+    "label": "CEDRITOS"
+  },
+  {
+    "value": "CEDRO NARVAEZ",
+    "label": "CEDRO NARVAEZ"
+  },
+  {
+    "value": "CEDRO SALAZAR",
+    "label": "CEDRO SALAZAR"
+  },
+  {
+    "value": "CEMENTERIO JARDINES APOGEO",
+    "label": "CEMENTERIO JARDINES APOGEO"
+  },
+  {
+    "value": "CENTENARIO",
+    "label": "CENTENARIO"
+  },
+  {
+    "value": "CENTRAL DE MEZCLAS",
+    "label": "CENTRAL DE MEZCLAS"
+  },
+  {
+    "value": "CENTRO ADMINISTRATIVO",
+    "label": "CENTRO ADMINISTRATIVO"
+  },
+  {
+    "value": "CENTRO ADMINISTRATIVO OCC.",
+    "label": "CENTRO ADMINISTRATIVO OCC."
+  },
+  {
+    "value": "CENTRO FONTIBON",
+    "label": "CENTRO FONTIBON"
+  },
+  {
+    "value": "CENTRO INDUSTRIAL",
+    "label": "CENTRO INDUSTRIAL"
+  },
+  {
+    "value": "CENTRO NARINO",
+    "label": "CENTRO NARINO"
+  },
+  {
+    "value": "CENTRO USME",
+    "label": "CENTRO USME"
+  },
+  {
+    "value": "CERRO COLORADO",
+    "label": "CERRO COLORADO"
+  },
+  {
+    "value": "CERROS DE ORIENTE",
+    "label": "CERROS DE ORIENTE"
+  },
+  {
+    "value": "CHAPINERITO",
+    "label": "CHAPINERITO"
+  },
+  {
+    "value": "CHAPINERO CENTRAL",
+    "label": "CHAPINERO CENTRAL"
+  },
+  {
+    "value": "CHAPINERO NORTE",
+    "label": "CHAPINERO NORTE"
+  },
+  {
+    "value": "CHAPINERO OCCIDENTAL",
+    "label": "CHAPINERO OCCIDENTAL"
+  },
+  {
+    "value": "CHARCO URBANO",
+    "label": "CHARCO URBANO"
+  },
+  {
+    "value": "CHARLES DE GAULLE",
+    "label": "CHARLES DE GAULLE"
+  },
+  {
+    "value": "CHICALA",
+    "label": "CHICALA"
+  },
+  {
+    "value": "CHICO NORTE II SECTOR",
+    "label": "CHICO NORTE II SECTOR"
+  },
+  {
+    "value": "CHICO NORTE III SECTOR",
+    "label": "CHICO NORTE III SECTOR"
+  },
+  {
+    "value": "CHICO SUR",
+    "label": "CHICO SUR"
+  },
+  {
+    "value": "CHUCUA DE LA VACA I",
+    "label": "CHUCUA DE LA VACA I"
+  },
+  {
+    "value": "CHUCUA DE LA VACA II",
+    "label": "CHUCUA DE LA VACA II"
+  },
+  {
+    "value": "CHUCUA DE LA VACA III",
+    "label": "CHUCUA DE LA VACA III"
+  },
+  {
+    "value": "CHUNIZA",
+    "label": "CHUNIZA"
+  },
+  {
+    "value": "CIUDAD BACHUE",
+    "label": "CIUDAD BACHUE"
+  },
+  {
+    "value": "CIUDAD BACHUE I ETAPA",
+    "label": "CIUDAD BACHUE I ETAPA"
+  },
+  {
+    "value": "CIUDAD BACHUE II",
+    "label": "CIUDAD BACHUE II"
+  },
+  {
+    "value": "CIUDAD BERNA",
+    "label": "CIUDAD BERNA"
+  },
+  {
+    "value": "CIUDAD BOLIVAR",
+    "label": "CIUDAD BOLIVAR"
+  },
+  {
+    "value": "CIUDAD BOLIVAR RURAL III",
+    "label": "CIUDAD BOLIVAR RURAL III"
+  },
+  {
+    "value": "CIUDAD DE CALI",
+    "label": "CIUDAD DE CALI"
+  },
+  {
+    "value": "CIUDAD HUNZA",
+    "label": "CIUDAD HUNZA"
+  },
+  {
+    "value": "CIUDAD JARDIN NORTE",
+    "label": "CIUDAD JARDIN NORTE"
+  },
+  {
+    "value": "CIUDAD JARDIN SUR",
+    "label": "CIUDAD JARDIN SUR"
+  },
+  {
+    "value": "CIUDAD KENNEDY",
+    "label": "CIUDAD KENNEDY"
+  },
+  {
+    "value": "CIUDAD KENNEDY NORTE",
+    "label": "CIUDAD KENNEDY NORTE"
+  },
+  {
+    "value": "CIUDAD KENNEDY OCCIDENTAL",
+    "label": "CIUDAD KENNEDY OCCIDENTAL"
+  },
+  {
+    "value": "CIUDAD KENNEDY ORIENTAL",
+    "label": "CIUDAD KENNEDY ORIENTAL"
+  },
+  {
+    "value": "CIUDAD KENNEDY SUR",
+    "label": "CIUDAD KENNEDY SUR"
+  },
+  {
+    "value": "CIUDAD SALITRE SUR-ORIENTAL",
+    "label": "CIUDAD SALITRE SUR-ORIENTAL"
+  },
+  {
+    "value": "CIUDAD TECHO II",
+    "label": "CIUDAD TECHO II"
+  },
+  {
+    "value": "CIUDAD UNIVERSITARIA",
+    "label": "CIUDAD UNIVERSITARIA"
+  },
+  {
+    "value": "CIUDADELA COLSUBSIDIO",
+    "label": "CIUDADELA COLSUBSIDIO"
+  },
+  {
+    "value": "CIUDADELA EL RECREO",
+    "label": "CIUDADELA EL RECREO"
+  },
+  {
+    "value": "CIUDADELA EL RECREO II",
+    "label": "CIUDADELA EL RECREO II"
+  },
+  {
+    "value": "CLASS",
+    "label": "CLASS"
+  },
+  {
+    "value": "COLOMBIA",
+    "label": "COLOMBIA"
+  },
+  {
+    "value": "COLSEGUROS",
+    "label": "COLSEGUROS"
+  },
+  {
+    "value": "COMPARTIR",
+    "label": "COMPARTIR"
+  },
+  {
+    "value": "CONCEPCION NORTE",
+    "label": "CONCEPCION NORTE"
+  },
+  {
+    "value": "CONEJERA",
+    "label": "CONEJERA"
+  },
+  {
+    "value": "COOPERATIVA DE SUB-OFICIALES",
+    "label": "COOPERATIVA DE SUB-OFICIALES"
+  },
+  {
+    "value": "CORABASTOS",
+    "label": "CORABASTOS"
+  },
+  {
+    "value": "CORDILLERA DEL SUR",
+    "label": "CORDILLERA DEL SUR"
+  },
+  {
+    "value": "CORDOBA",
+    "label": "CORDOBA"
+  },
+  {
+    "value": "CORREDOR FERREO DEL SUR",
+    "label": "CORREDOR FERREO DEL SUR"
+  },
+  {
+    "value": "COUNTRY CLUB",
+    "label": "COUNTRY CLUB"
+  },
+  {
+    "value": "CUNDINAMARCA",
+    "label": "CUNDINAMARCA"
+  },
+  {
+    "value": "DANUBIO",
+    "label": "DANUBIO"
+  },
+  {
+    "value": "DELMONTE",
+    "label": "DELMONTE"
+  },
+  {
+    "value": "DESARROLLO BRAZUELOS I",
+    "label": "DESARROLLO BRAZUELOS I"
+  },
+  {
+    "value": "DIANA TURBAY",
+    "label": "DIANA TURBAY"
+  },
+  {
+    "value": "DIANA TURBAY ARRAYANES",
+    "label": "DIANA TURBAY ARRAYANES"
+  },
+  {
+    "value": "DIANA TURBAY CULTIVOS",
+    "label": "DIANA TURBAY CULTIVOS"
+  },
+  {
+    "value": "DINDALITO",
+    "label": "DINDALITO"
+  },
+  {
+    "value": "DINTALITO",
+    "label": "DINTALITO"
+  },
+  {
+    "value": "DONA LILIANA",
+    "label": "DONA LILIANA"
+  },
+  {
+    "value": "DUITAMA",
+    "label": "DUITAMA"
+  },
+  {
+    "value": "EDUARDO FREY",
+    "label": "EDUARDO FREY"
+  },
+  {
+    "value": "EDUARDO SANTOS",
+    "label": "EDUARDO SANTOS"
+  },
+  {
+    "value": "EGIPTO",
+    "label": "EGIPTO"
+  },
+  {
+    "value": "EL BAGAZAL",
+    "label": "EL BAGAZAL"
+  },
+  {
+    "value": "EL BOSQUE",
+    "label": "EL BOSQUE"
+  },
+  {
+    "value": "EL BOSQUE CENTRAL",
+    "label": "EL BOSQUE CENTRAL"
+  },
+  {
+    "value": "EL BOSQUE CENTRAL I",
+    "label": "EL BOSQUE CENTRAL I"
+  },
+  {
+    "value": "EL BOSQUE SUR ORIENTAL RURAL I",
+    "label": "EL BOSQUE SUR ORIENTAL RURAL I"
+  },
+  {
+    "value": "EL BOSQUE SUR ORIENTAL RURAL III",
+    "label": "EL BOSQUE SUR ORIENTAL RURAL III"
+  },
+  {
+    "value": "EL CARMELO",
+    "label": "EL CARMELO"
+  },
+  {
+    "value": "EL CARMEN",
+    "label": "EL CARMEN"
+  },
+  {
+    "value": "EL CARMEN FONTIBON",
+    "label": "EL CARMEN FONTIBON"
+  },
+  {
+    "value": "EL CEDRO",
+    "label": "EL CEDRO"
+  },
+  {
+    "value": "EL CEREZO",
+    "label": "EL CEREZO"
+  },
+  {
+    "value": "EL CHANCO I",
+    "label": "EL CHANCO I"
+  },
+  {
+    "value": "EL CHANCO RURAL II",
+    "label": "EL CHANCO RURAL II"
+  },
+  {
+    "value": "EL CHICO",
+    "label": "EL CHICO"
+  },
+  {
+    "value": "EL CHIRCAL SUR",
+    "label": "EL CHIRCAL SUR"
+  },
+  {
+    "value": "EL CORTIJO",
+    "label": "EL CORTIJO"
+  },
+  {
+    "value": "EL CORZO I",
+    "label": "EL CORZO I"
+  },
+  {
+    "value": "EL CURUBO",
+    "label": "EL CURUBO"
+  },
+  {
+    "value": "EL DANUBIO AZUL",
+    "label": "EL DANUBIO AZUL"
+  },
+  {
+    "value": "EL DORADO",
+    "label": "EL DORADO"
+  },
+  {
+    "value": "EL DORADO INDUSTRIAL",
+    "label": "EL DORADO INDUSTRIAL"
+  },
+  {
+    "value": "EL EJIDO",
+    "label": "EL EJIDO"
+  },
+  {
+    "value": "EL ENCANTO",
+    "label": "EL ENCANTO"
+  },
+  {
+    "value": "EL ENSUENO",
+    "label": "EL ENSUENO"
+  },
+  {
+    "value": "EL GACO",
+    "label": "EL GACO"
+  },
+  {
+    "value": "EL GUAVIO",
+    "label": "EL GUAVIO"
+  },
+  {
+    "value": "EL JARDIN",
+    "label": "EL JARDIN"
+  },
+  {
+    "value": "EL LAUREL",
+    "label": "EL LAUREL"
+  },
+  {
+    "value": "EL LISTON",
+    "label": "EL LISTON"
+  },
+  {
+    "value": "EL MADRIGAL",
+    "label": "EL MADRIGAL"
+  },
+  {
+    "value": "EL MINUTO DE MARIA",
+    "label": "EL MINUTO DE MARIA"
+  },
+  {
+    "value": "EL MIRADOR DE LA ESTANCIA",
+    "label": "EL MIRADOR DE LA ESTANCIA"
+  },
+  {
+    "value": "EL MOCHUELO II URBANO",
+    "label": "EL MOCHUELO II URBANO"
+  },
+  {
+    "value": "EL MOCHUELO III",
+    "label": "EL MOCHUELO III"
+  },
+  {
+    "value": "EL MOCHUELO III URBANO",
+    "label": "EL MOCHUELO III URBANO"
+  },
+  {
+    "value": "EL MOCHUELO IV",
+    "label": "EL MOCHUELO IV"
+  },
+  {
+    "value": "EL MOCHUELO ORIENTAL",
+    "label": "EL MOCHUELO ORIENTAL"
+  },
+  {
+    "value": "EL MOCHUELO URBANO",
+    "label": "EL MOCHUELO URBANO"
+  },
+  {
+    "value": "EL MUELLE",
+    "label": "EL MUELLE"
+  },
+  {
+    "value": "EL NEVADO",
+    "label": "EL NEVADO"
+  },
+  {
+    "value": "EL NOGAL",
+    "label": "EL NOGAL"
+  },
+  {
+    "value": "EL NUEVO PORTAL II",
+    "label": "EL NUEVO PORTAL II"
+  },
+  {
+    "value": "EL PARAISO BOSA",
+    "label": "EL PARAISO BOSA"
+  },
+  {
+    "value": "EL PEDREGAL",
+    "label": "EL PEDREGAL"
+  },
+  {
+    "value": "EL PEDREGAL II",
+    "label": "EL PEDREGAL II"
+  },
+  {
+    "value": "EL PENON DEL CORTIJO",
+    "label": "EL PENON DEL CORTIJO"
+  },
+  {
+    "value": "EL PINO",
+    "label": "EL PINO"
+  },
+  {
+    "value": "EL PLAYON",
+    "label": "EL PLAYON"
+  },
+  {
+    "value": "EL PORTAL DEL BRASIL",
+    "label": "EL PORTAL DEL BRASIL"
+  },
+  {
+    "value": "EL PORTAL URBANO",
+    "label": "EL PORTAL URBANO"
+  },
+  {
+    "value": "EL PORVENIR DE LOS SOCHES",
+    "label": "EL PORVENIR DE LOS SOCHES"
+  },
+  {
+    "value": "EL PROGRESO USME",
+    "label": "EL PROGRESO USME"
+  },
+  {
+    "value": "EL REAL",
+    "label": "EL REAL"
+  },
+  {
+    "value": "EL RECUERDO",
+    "label": "EL RECUERDO"
+  },
+  {
+    "value": "EL REDIL",
+    "label": "EL REDIL"
+  },
+  {
+    "value": "EL REFUGIO",
+    "label": "EL REFUGIO"
+  },
+  {
+    "value": "EL REFUGIO I",
+    "label": "EL REFUGIO I"
+  },
+  {
+    "value": "EL REFUGIO II",
+    "label": "EL REFUGIO II"
+  },
+  {
+    "value": "EL REMANSO I",
+    "label": "EL REMANSO I"
+  },
+  {
+    "value": "EL RETIRO",
+    "label": "EL RETIRO"
+  },
+  {
+    "value": "EL RINCON NORTE",
+    "label": "EL RINCON NORTE"
+  },
+  {
+    "value": "EL ROCIO",
+    "label": "EL ROCIO"
+  },
+  {
+    "value": "EL ROCIO NORTE",
+    "label": "EL ROCIO NORTE"
+  },
+  {
+    "value": "EL ROSARIO",
+    "label": "EL ROSARIO"
+  },
+  {
+    "value": "EL RUBI",
+    "label": "EL RUBI"
+  },
+  {
+    "value": "EL SALITRE",
+    "label": "EL SALITRE"
+  },
+  {
+    "value": "EL SATELITE",
+    "label": "EL SATELITE"
+  },
+  {
+    "value": "EL TESORO",
+    "label": "EL TESORO"
+  },
+  {
+    "value": "EL TINTAL II",
+    "label": "EL TINTAL II"
+  },
+  {
+    "value": "EL TINTAL III",
+    "label": "EL TINTAL III"
+  },
+  {
+    "value": "EL TINTAL IV",
+    "label": "EL TINTAL IV"
+  },
+  {
+    "value": "EL TOBERIN",
+    "label": "EL TOBERIN"
+  },
+  {
+    "value": "EL TRIANGULO",
+    "label": "EL TRIANGULO"
+  },
+  {
+    "value": "EL TUNO",
+    "label": "EL TUNO"
+  },
+  {
+    "value": "EL UVAL RURAL",
+    "label": "EL UVAL RURAL"
+  },
+  {
+    "value": "EL VERGEL",
+    "label": "EL VERGEL"
+  },
+  {
+    "value": "EL VERGEL ORIENTAL",
+    "label": "EL VERGEL ORIENTAL"
+  },
+  {
+    "value": "EMAUS",
+    "label": "EMAUS"
+  },
+  {
+    "value": "ENGATIVA EL DORADO",
+    "label": "ENGATIVA EL DORADO"
+  },
+  {
+    "value": "ENGATIVA ZONA URBANA",
+    "label": "ENGATIVA ZONA URBANA"
+  },
+  {
+    "value": "ENTRERIOS",
+    "label": "ENTRERIOS"
+  },
+  {
+    "value": "ESCUELA DE CARABINEROS",
+    "label": "ESCUELA DE CARABINEROS"
+  },
+  {
+    "value": "ESCUELA DE INFANTERIA",
+    "label": "ESCUELA DE INFANTERIA"
+  },
+  {
+    "value": "ESCUELA GENERAL SANTANDER",
+    "label": "ESCUELA GENERAL SANTANDER"
+  },
+  {
+    "value": "ESCUELA MILITAR",
+    "label": "ESCUELA MILITAR"
+  },
+  {
+    "value": "ESPINO",
+    "label": "ESPINO"
+  },
+  {
+    "value": "ESPINO I",
+    "label": "ESPINO I"
+  },
+  {
+    "value": "ESTACION CENTRAL",
+    "label": "ESTACION CENTRAL"
+  },
+  {
+    "value": "ESTORIL",
+    "label": "ESTORIL"
+  },
+  {
+    "value": "ESTRELLA",
+    "label": "ESTRELLA"
+  },
+  {
+    "value": "FERROCAJA FONTIBON",
+    "label": "FERROCAJA FONTIBON"
+  },
+  {
+    "value": "FISCALA ALTA",
+    "label": "FISCALA ALTA"
+  },
+  {
+    "value": "FLORENCIA",
+    "label": "FLORENCIA"
+  },
+  {
+    "value": "FLORIDA",
+    "label": "FLORIDA"
+  },
+  {
+    "value": "FRANCO",
+    "label": "FRANCO"
+  },
+  {
+    "value": "GALERIAS",
+    "label": "GALERIAS"
+  },
+  {
+    "value": "GALICIA",
+    "label": "GALICIA"
+  },
+  {
+    "value": "GARCES NAVAS",
+    "label": "GARCES NAVAS"
+  },
+  {
+    "value": "GARCES NAVAS ORIENTAL",
+    "label": "GARCES NAVAS ORIENTAL"
+  },
+  {
+    "value": "GARCES NAVAS SUR",
+    "label": "GARCES NAVAS SUR"
+  },
+  {
+    "value": "GILMAR",
+    "label": "GILMAR"
+  },
+  {
+    "value": "GINEBRA",
+    "label": "GINEBRA"
+  },
+  {
+    "value": "GINEBRA II",
+    "label": "GINEBRA II"
+  },
+  {
+    "value": "GORGONZOLA",
+    "label": "GORGONZOLA"
+  },
+  {
+    "value": "GRAN AMERICA",
+    "label": "GRAN AMERICA"
+  },
+  {
+    "value": "GRAN BRITALIA",
+    "label": "GRAN BRITALIA"
+  },
+  {
+    "value": "GRAN BRITALIA I",
+    "label": "GRAN BRITALIA I"
+  },
+  {
+    "value": "GRAN GRANADA",
+    "label": "GRAN GRANADA"
+  },
+  {
+    "value": "GRAN YOMASA",
+    "label": "GRAN YOMASA"
+  },
+  {
+    "value": "GRANADA",
+    "label": "GRANADA"
+  },
+  {
+    "value": "GRANADA NORTE",
+    "label": "GRANADA NORTE"
+  },
+  {
+    "value": "GRANJAS DE SANTA SOFIA",
+    "label": "GRANJAS DE SANTA SOFIA"
+  },
+  {
+    "value": "GRANJAS DE TECHO",
+    "label": "GRANJAS DE TECHO"
+  },
+  {
+    "value": "GRANJAS SAN PABLO",
+    "label": "GRANJAS SAN PABLO"
+  },
+  {
+    "value": "GUACAMAYAS II",
+    "label": "GUACAMAYAS II"
+  },
+  {
+    "value": "GUACAMAYAS III",
+    "label": "GUACAMAYAS III"
+  },
+  {
+    "value": "GUACAMAYAS IV",
+    "label": "GUACAMAYAS IV"
+  },
+  {
+    "value": "GUADALUPE",
+    "label": "GUADALUPE"
+  },
+  {
+    "value": "GUIPARMA",
+    "label": "GUIPARMA"
+  },
+  {
+    "value": "GUSTAVO RESTREPO",
+    "label": "GUSTAVO RESTREPO"
+  },
+  {
+    "value": "HIPOTECHO OCCIDENTAL",
+    "label": "HIPOTECHO OCCIDENTAL"
+  },
+  {
+    "value": "HORIZONTES NORTE",
+    "label": "HORIZONTES NORTE"
+  },
+  {
+    "value": "HOSPITAL SAN CARLOS",
+    "label": "HOSPITAL SAN CARLOS"
+  },
+  {
+    "value": "IBERIA",
+    "label": "IBERIA"
+  },
+  {
+    "value": "INDUSTRIAL CENTENARIO",
+    "label": "INDUSTRIAL CENTENARIO"
+  },
+  {
+    "value": "INGEMAR",
+    "label": "INGEMAR"
+  },
+  {
+    "value": "INTERINDUSTRIAL",
+    "label": "INTERINDUSTRIAL"
+  },
+  {
+    "value": "IRAGUA",
+    "label": "IRAGUA"
+  },
+  {
+    "value": "ISLANDIA",
+    "label": "ISLANDIA"
+  },
+  {
+    "value": "ISMAEL PERDOMO",
+    "label": "ISMAEL PERDOMO"
+  },
+  {
+    "value": "JACQUELINE",
+    "label": "JACQUELINE"
+  },
+  {
+    "value": "JERUSALEN",
+    "label": "JERUSALEN"
+  },
+  {
+    "value": "JIMENEZ DE QUESADA",
+    "label": "JIMENEZ DE QUESADA"
+  },
+  {
+    "value": "JIMENEZ DE QUESADA II SECTOR",
+    "label": "JIMENEZ DE QUESADA II SECTOR"
+  },
+  {
+    "value": "JORGE GAITAN CORTES",
+    "label": "JORGE GAITAN CORTES"
+  },
+  {
+    "value": "JORGE URIBE BOTERO",
+    "label": "JORGE URIBE BOTERO"
+  },
+  {
+    "value": "JOSE JOAQUIN VARGAS",
+    "label": "JOSE JOAQUIN VARGAS"
+  },
+  {
+    "value": "JOSE MARIA CARBONEL",
+    "label": "JOSE MARIA CARBONEL"
+  },
+  {
+    "value": "JUAN PABLO II",
+    "label": "JUAN PABLO II"
+  },
+  {
+    "value": "JULIO FLOREZ",
+    "label": "JULIO FLOREZ"
+  },
+  {
+    "value": "KASANDRA",
+    "label": "KASANDRA"
+  },
+  {
+    "value": "LA ANDREA",
+    "label": "LA ANDREA"
+  },
+  {
+    "value": "LA ASUNCION",
+    "label": "LA ASUNCION"
+  },
+  {
+    "value": "LA BELLEZA",
+    "label": "LA BELLEZA"
+  },
+  {
+    "value": "LA CABANA",
+    "label": "LA CABANA"
+  },
+  {
+    "value": "LA CABRERA",
+    "label": "LA CABRERA"
+  },
+  {
+    "value": "LA CAMPINA",
+    "label": "LA CAMPINA"
+  },
+  {
+    "value": "LA CANDELARIA",
+    "label": "LA CANDELARIA"
+  },
+  {
+    "value": "LA CAPUCHINA",
+    "label": "LA CAPUCHINA"
+  },
+  {
+    "value": "LA CAROLINA",
+    "label": "LA CAROLINA"
+  },
+  {
+    "value": "LA CATEDRAL",
+    "label": "LA CATEDRAL"
+  },
+  {
+    "value": "LA COMUNA",
+    "label": "LA COMUNA"
+  },
+  {
+    "value": "LA CONCORDIA",
+    "label": "LA CONCORDIA"
+  },
+  {
+    "value": "LA CORUNA",
+    "label": "LA CORUNA"
+  },
+  {
+    "value": "LA ESMERALDA",
+    "label": "LA ESMERALDA"
+  },
+  {
+    "value": "LA ESPERANZA",
+    "label": "LA ESPERANZA"
+  },
+  {
+    "value": "LA ESPERANZA SUR I",
+    "label": "LA ESPERANZA SUR I"
+  },
+  {
+    "value": "LA ESTANCIA",
+    "label": "LA ESTANCIA"
+  },
+  {
+    "value": "LA ESTANZUELA",
+    "label": "LA ESTANZUELA"
+  },
+  {
+    "value": "LA ESTRADITA",
+    "label": "LA ESTRADITA"
+  },
+  {
+    "value": "LA ESTRELLITA",
+    "label": "LA ESTRELLITA"
+  },
+  {
+    "value": "LA FAENA",
+    "label": "LA FAENA"
+  },
+  {
+    "value": "LA FISCALA NORTE",
+    "label": "LA FISCALA NORTE"
+  },
+  {
+    "value": "LA FLORIDA OCCIDENTAL",
+    "label": "LA FLORIDA OCCIDENTAL"
+  },
+  {
+    "value": "LA FRAGUA",
+    "label": "LA FRAGUA"
+  },
+  {
+    "value": "LA FRAGUITA",
+    "label": "LA FRAGUITA"
+  },
+  {
+    "value": "LA GAITANA",
+    "label": "LA GAITANA"
+  },
+  {
+    "value": "LA GAITANA ORIENTAL",
+    "label": "LA GAITANA ORIENTAL"
+  },
+  {
+    "value": "LA GIRALDA",
+    "label": "LA GIRALDA"
+  },
+  {
+    "value": "LA GLORIA OCCIDENTAL",
+    "label": "LA GLORIA OCCIDENTAL"
+  },
+  {
+    "value": "LA GLORIA ORIENTAL",
+    "label": "LA GLORIA ORIENTAL"
+  },
+  {
+    "value": "LA GRANJA",
+    "label": "LA GRANJA"
+  },
+  {
+    "value": "LA GRANJA NORTE",
+    "label": "LA GRANJA NORTE"
+  },
+  {
+    "value": "LA HORTUA",
+    "label": "LA HORTUA"
+  },
+  {
+    "value": "LA LAGUNA FONTIBON",
+    "label": "LA LAGUNA FONTIBON"
+  },
+  {
+    "value": "LA LIBERIA",
+    "label": "LA LIBERIA"
+  },
+  {
+    "value": "LA MACARENA",
+    "label": "LA MACARENA"
+  },
+  {
+    "value": "LA MAGDALENA",
+    "label": "LA MAGDALENA"
+  },
+  {
+    "value": "LA MARIA",
+    "label": "LA MARIA"
+  },
+  {
+    "value": "LA MERCED",
+    "label": "LA MERCED"
+  },
+  {
+    "value": "LA PAMPA",
+    "label": "LA PAMPA"
+  },
+  {
+    "value": "LA PAZ BOSA",
+    "label": "LA PAZ BOSA"
+  },
+  {
+    "value": "LA PENA",
+    "label": "LA PENA"
+  },
+  {
+    "value": "LA PEPITA",
+    "label": "LA PEPITA"
+  },
+  {
+    "value": "LA PERSEVERANCIA",
+    "label": "LA PERSEVERANCIA"
+  },
+  {
+    "value": "LA PICOTA",
+    "label": "LA PICOTA"
+  },
+  {
+    "value": "LA PICOTA ORIENTAL",
+    "label": "LA PICOTA ORIENTAL"
+  },
+  {
+    "value": "LA PRADERA NORTE",
+    "label": "LA PRADERA NORTE"
+  },
+  {
+    "value": "LA PRIMAVERA I",
+    "label": "LA PRIMAVERA I"
+  },
+  {
+    "value": "LA REQUILINA",
+    "label": "LA REQUILINA"
+  },
+  {
+    "value": "LA REQUILINA RURAL",
+    "label": "LA REQUILINA RURAL"
+  },
+  {
+    "value": "LA REQUILINA RURAL II",
+    "label": "LA REQUILINA RURAL II"
+  },
+  {
+    "value": "LA RESURRECCION",
+    "label": "LA RESURRECCION"
+  },
+  {
+    "value": "LA RIVIERA",
+    "label": "LA RIVIERA"
+  },
+  {
+    "value": "LA SABANA",
+    "label": "LA SABANA"
+  },
+  {
+    "value": "LA SALLE",
+    "label": "LA SALLE"
+  },
+  {
+    "value": "LA SERENA",
+    "label": "LA SERENA"
+  },
+  {
+    "value": "LA SOLEDAD",
+    "label": "LA SOLEDAD"
+  },
+  {
+    "value": "LA SOLEDAD NORTE",
+    "label": "LA SOLEDAD NORTE"
+  },
+  {
+    "value": "LA TORRE",
+    "label": "LA TORRE"
+  },
+  {
+    "value": "LA URIBE",
+    "label": "LA URIBE"
+  },
+  {
+    "value": "LA VALVANERA",
+    "label": "LA VALVANERA"
+  },
+  {
+    "value": "LA VEGA SAN BERNARDINO",
+    "label": "LA VEGA SAN BERNARDINO"
+  },
+  {
+    "value": "LAGO DE SUBA",
+    "label": "LAGO DE SUBA"
+  },
+  {
+    "value": "LAGUNITAS",
+    "label": "LAGUNITAS"
+  },
+  {
+    "value": "LAGUNITAS URBANO",
+    "label": "LAGUNITAS URBANO"
+  },
+  {
+    "value": "LAS ACACIAS",
+    "label": "LAS ACACIAS"
+  },
+  {
+    "value": "LAS AMERICAS",
+    "label": "LAS AMERICAS"
+  },
+  {
+    "value": "LAS CRUCES",
+    "label": "LAS CRUCES"
+  },
+  {
+    "value": "LAS DOS AVENIDAS",
+    "label": "LAS DOS AVENIDAS"
+  },
+  {
+    "value": "LAS FERIAS",
+    "label": "LAS FERIAS"
+  },
+  {
+    "value": "LAS FERIAS OCCIDENTAL",
+    "label": "LAS FERIAS OCCIDENTAL"
+  },
+  {
+    "value": "LAS GAVIOTAS",
+    "label": "LAS GAVIOTAS"
+  },
+  {
+    "value": "LAS LOMAS",
+    "label": "LAS LOMAS"
+  },
+  {
+    "value": "LAS MANAS",
+    "label": "LAS MANAS"
+  },
+  {
+    "value": "LAS MERCEDES",
+    "label": "LAS MERCEDES"
+  },
+  {
+    "value": "LAS MERCEDES I",
+    "label": "LAS MERCEDES I"
+  },
+  {
+    "value": "LAS MERCEDES SUBA RURAL",
+    "label": "LAS MERCEDES SUBA RURAL"
+  },
+  {
+    "value": "LAS NIEVES",
+    "label": "LAS NIEVES"
+  },
+  {
+    "value": "LAS VILLAS",
+    "label": "LAS VILLAS"
+  },
+  {
+    "value": "LAS VIOLETAS",
+    "label": "LAS VIOLETAS"
+  },
+  {
+    "value": "LECH WALESA",
+    "label": "LECH WALESA"
+  },
+  {
+    "value": "LIBERTADOR",
+    "label": "LIBERTADOR"
+  },
+  {
+    "value": "LISBOA",
+    "label": "LISBOA"
+  },
+  {
+    "value": "LLANO GRANDE",
+    "label": "LLANO GRANDE"
+  },
+  {
+    "value": "LOMBARDIA",
+    "label": "LOMBARDIA"
+  },
+  {
+    "value": "LOS ALAMOS",
+    "label": "LOS ALAMOS"
+  },
+  {
+    "value": "LOS ALMENDROS",
+    "label": "LOS ALMENDROS"
+  },
+  {
+    "value": "LOS ALPES SUR",
+    "label": "LOS ALPES SUR"
+  },
+  {
+    "value": "LOS ANDES",
+    "label": "LOS ANDES"
+  },
+  {
+    "value": "LOS ANGELES",
+    "label": "LOS ANGELES"
+  },
+  {
+    "value": "LOS ARRAYANES",
+    "label": "LOS ARRAYANES"
+  },
+  {
+    "value": "LOS ARRAYANES II",
+    "label": "LOS ARRAYANES II"
+  },
+  {
+    "value": "LOS CEDROS ORIENTAL",
+    "label": "LOS CEDROS ORIENTAL"
+  },
+  {
+    "value": "LOS CEREZOS",
+    "label": "LOS CEREZOS"
+  },
+  {
+    "value": "LOS LACHES",
+    "label": "LOS LACHES"
+  },
+  {
+    "value": "LOS LAURELES",
+    "label": "LOS LAURELES"
+  },
+  {
+    "value": "LOS LAURELES II",
+    "label": "LOS LAURELES II"
+  },
+  {
+    "value": "LOS LIBERTADORES",
+    "label": "LOS LIBERTADORES"
+  },
+  {
+    "value": "LOS MOLINOS",
+    "label": "LOS MOLINOS"
+  },
+  {
+    "value": "LOS NARANJOS",
+    "label": "LOS NARANJOS"
+  },
+  {
+    "value": "LOS OLIVARES",
+    "label": "LOS OLIVARES"
+  },
+  {
+    "value": "LOS ROSALES",
+    "label": "LOS ROSALES"
+  },
+  {
+    "value": "LOS SAUCES",
+    "label": "LOS SAUCES"
+  },
+  {
+    "value": "LOS SOCHES",
+    "label": "LOS SOCHES"
+  },
+  {
+    "value": "LOS TRES REYES",
+    "label": "LOS TRES REYES"
+  },
+  {
+    "value": "LOS TRES REYES I",
+    "label": "LOS TRES REYES I"
+  },
+  {
+    "value": "LUIS CARLOS GALAN",
+    "label": "LUIS CARLOS GALAN"
+  },
+  {
+    "value": "LUSITANIA",
+    "label": "LUSITANIA"
+  },
+  {
+    "value": "MANDALAY",
+    "label": "MANDALAY"
+  },
+  {
+    "value": "MARANDU",
+    "label": "MARANDU"
+  },
+  {
+    "value": "MARCO FIDEL SUAREZ",
+    "label": "MARCO FIDEL SUAREZ"
+  },
+  {
+    "value": "MARCO FIDEL SUAREZ I",
+    "label": "MARCO FIDEL SUAREZ I"
+  },
+  {
+    "value": "MARIA CANO",
+    "label": "MARIA CANO"
+  },
+  {
+    "value": "MARIA CRISTINA",
+    "label": "MARIA CRISTINA"
+  },
+  {
+    "value": "MARIA PAZ",
+    "label": "MARIA PAZ"
+  },
+  {
+    "value": "MARICHUELA",
+    "label": "MARICHUELA"
+  },
+  {
+    "value": "MARLY",
+    "label": "MARLY"
+  },
+  {
+    "value": "MAZUREN",
+    "label": "MAZUREN"
+  },
+  {
+    "value": "MEISSEN",
+    "label": "MEISSEN"
+  },
+  {
+    "value": "METROPOLIS",
+    "label": "METROPOLIS"
+  },
+  {
+    "value": "MEXICO",
+    "label": "MEXICO"
+  },
+  {
+    "value": "MILLAN",
+    "label": "MILLAN"
+  },
+  {
+    "value": "MIRANDELA",
+    "label": "MIRANDELA"
+  },
+  {
+    "value": "MOCHUELO ALTO RURAL",
+    "label": "MOCHUELO ALTO RURAL"
+  },
+  {
+    "value": "MODELIA",
+    "label": "MODELIA"
+  },
+  {
+    "value": "MODELIA OCCIDENTAL",
+    "label": "MODELIA OCCIDENTAL"
+  },
+  {
+    "value": "MOLINOS DE ORIENTE",
+    "label": "MOLINOS DE ORIENTE"
+  },
+  {
+    "value": "MOLINOS NORTE",
+    "label": "MOLINOS NORTE"
+  },
+  {
+    "value": "MONTE CARLO",
+    "label": "MONTE CARLO"
+  },
+  {
+    "value": "MONTEBELLO",
+    "label": "MONTEBELLO"
+  },
+  {
+    "value": "MONTEBLANCO",
+    "label": "MONTEBLANCO"
+  },
+  {
+    "value": "MONTES",
+    "label": "MONTES"
+  },
+  {
+    "value": "MONTEVIDEO",
+    "label": "MONTEVIDEO"
+  },
+  {
+    "value": "MORALBA",
+    "label": "MORALBA"
+  },
+  {
+    "value": "MORAVIA",
+    "label": "MORAVIA"
+  },
+  {
+    "value": "MUEQUETA",
+    "label": "MUEQUETA"
+  },
+  {
+    "value": "MURILLO TORO",
+    "label": "MURILLO TORO"
+  },
+  {
+    "value": "MUZU",
+    "label": "MUZU"
+  },
+  {
+    "value": "NACIONES UNIDAS",
+    "label": "NACIONES UNIDAS"
+  },
+  {
+    "value": "NARINO SUR",
+    "label": "NARINO SUR"
+  },
+  {
+    "value": "NICOLAS DE FEDERMAN",
+    "label": "NICOLAS DE FEDERMAN"
+  },
+  {
+    "value": "NIZA NORTE",
+    "label": "NIZA NORTE"
+  },
+  {
+    "value": "NIZA SUBA",
+    "label": "NIZA SUBA"
+  },
+  {
+    "value": "NIZA SUR",
+    "label": "NIZA SUR"
+  },
+  {
+    "value": "NORMANDIA",
+    "label": "NORMANDIA"
+  },
+  {
+    "value": "NUEVA DELHI",
+    "label": "NUEVA DELHI"
+  },
+  {
+    "value": "NUEVA GLORIA",
+    "label": "NUEVA GLORIA"
+  },
+  {
+    "value": "NUEVA TIBABUYES",
+    "label": "NUEVA TIBABUYES"
+  },
+  {
+    "value": "NUEVA YORK",
+    "label": "NUEVA YORK"
+  },
+  {
+    "value": "NUEVO SAN ANDRES",
+    "label": "NUEVO SAN ANDRES"
+  },
+  {
+    "value": "NUEVO TECHO",
+    "label": "NUEVO TECHO"
+  },
+  {
+    "value": "OLARTE",
+    "label": "OLARTE"
+  },
+  {
+    "value": "OLAYA",
+    "label": "OLAYA"
+  },
+  {
+    "value": "ONCE DE NOVIEMBRE",
+    "label": "ONCE DE NOVIEMBRE"
+  },
+  {
+    "value": "ORTEZAL",
+    "label": "ORTEZAL"
+  },
+  {
+    "value": "OSORIO III",
+    "label": "OSORIO III"
+  },
+  {
+    "value": "OSORIO X URBANO",
+    "label": "OSORIO X URBANO"
+  },
+  {
+    "value": "OSORIO XII",
+    "label": "OSORIO XII"
+  },
+  {
+    "value": "PABLO VI NORTE",
+    "label": "PABLO VI NORTE"
+  },
+  {
+    "value": "PALERMO",
+    "label": "PALERMO"
+  },
+  {
+    "value": "PALERMO SUR",
+    "label": "PALERMO SUR"
+  },
+  {
+    "value": "PALO BLANCO",
+    "label": "PALO BLANCO"
+  },
+  {
+    "value": "PARAISO QUIBA",
+    "label": "PARAISO QUIBA"
+  },
+  {
+    "value": "PARAMO",
+    "label": "PARAMO"
+  },
+  {
+    "value": "PARAMO I",
+    "label": "PARAMO I"
+  },
+  {
+    "value": "PARAMO III RURAL",
+    "label": "PARAMO III RURAL"
+  },
+  {
+    "value": "PARAMO IV",
+    "label": "PARAMO IV"
+  },
+  {
+    "value": "PARAMO RURAL V",
+    "label": "PARAMO RURAL V"
+  },
+  {
+    "value": "PARAMO URBANO I",
+    "label": "PARAMO URBANO I"
+  },
+  {
+    "value": "PARCELA EL PORVENIR",
+    "label": "PARCELA EL PORVENIR"
+  },
+  {
+    "value": "PARDO RUBIO",
+    "label": "PARDO RUBIO"
+  },
+  {
+    "value": "PARQUE DISTRITAL SALITRE",
+    "label": "PARQUE DISTRITAL SALITRE"
+  },
+  {
+    "value": "PARQUE EL TUNAL",
+    "label": "PARQUE EL TUNAL"
+  },
+  {
+    "value": "PARQUE NACIONAL ORIENTAL",
+    "label": "PARQUE NACIONAL ORIENTAL"
+  },
+  {
+    "value": "PARQUE POPULAR SALITRE",
+    "label": "PARQUE POPULAR SALITRE"
+  },
+  {
+    "value": "PASADENA",
+    "label": "PASADENA"
+  },
+  {
+    "value": "PASO ANCHO",
+    "label": "PASO ANCHO"
+  },
+  {
+    "value": "PASTRANA",
+    "label": "PASTRANA"
+  },
+  {
+    "value": "PATIO BONITO",
+    "label": "PATIO BONITO"
+  },
+  {
+    "value": "PATIO BONITO II",
+    "label": "PATIO BONITO II"
+  },
+  {
+    "value": "PATIO BONITO III",
+    "label": "PATIO BONITO III"
+  },
+  {
+    "value": "PAULO VI",
+    "label": "PAULO VI"
+  },
+  {
+    "value": "PENSILVANIA",
+    "label": "PENSILVANIA"
+  },
+  {
+    "value": "PERDOMO ALTO",
+    "label": "PERDOMO ALTO"
+  },
+  {
+    "value": "PINOS DE LOMBARDIA",
+    "label": "PINOS DE LOMBARDIA"
+  },
+  {
+    "value": "PIO XII",
+    "label": "PIO XII"
+  },
+  {
+    "value": "POLICARPA",
+    "label": "POLICARPA"
+  },
+  {
+    "value": "POLO CLUB",
+    "label": "POLO CLUB"
+  },
+  {
+    "value": "PORCIUNCULA",
+    "label": "PORCIUNCULA"
+  },
+  {
+    "value": "PORTALES DEL NORTE",
+    "label": "PORTALES DEL NORTE"
+  },
+  {
+    "value": "PORVENIR",
+    "label": "PORVENIR"
+  },
+  {
+    "value": "POTRERILLO",
+    "label": "POTRERILLO"
+  },
+  {
+    "value": "PRADO PINZON",
+    "label": "PRADO PINZON"
+  },
+  {
+    "value": "PRADO VERANIEGO",
+    "label": "PRADO VERANIEGO"
+  },
+  {
+    "value": "PRADO VERANIEGO NORTE",
+    "label": "PRADO VERANIEGO NORTE"
+  },
+  {
+    "value": "PRADO VERANIEGO SUR",
+    "label": "PRADO VERANIEGO SUR"
+  },
+  {
+    "value": "PRIMAVERA",
+    "label": "PRIMAVERA"
+  },
+  {
+    "value": "PRIMAVERA II",
+    "label": "PRIMAVERA II"
+  },
+  {
+    "value": "PRIMAVERA OCCIDENTAL",
+    "label": "PRIMAVERA OCCIDENTAL"
+  },
+  {
+    "value": "PRIMERO DE MAYO",
+    "label": "PRIMERO DE MAYO"
+  },
+  {
+    "value": "PROVIVIENDA",
+    "label": "PROVIVIENDA"
+  },
+  {
+    "value": "PROVIVIENDA OCCIDENTAL",
+    "label": "PROVIVIENDA OCCIDENTAL"
+  },
+  {
+    "value": "PUENTE ARANDA",
+    "label": "PUENTE ARANDA"
+  },
+  {
+    "value": "PUENTE COLORADO",
+    "label": "PUENTE COLORADO"
+  },
+  {
+    "value": "PUENTE GRANDE",
+    "label": "PUENTE GRANDE"
+  },
+  {
+    "value": "PUENTE LARGO",
+    "label": "PUENTE LARGO"
+  },
+  {
+    "value": "PUERTA AL LLANO DE USME",
+    "label": "PUERTA AL LLANO DE USME"
+  },
+  {
+    "value": "PUERTA AL LLANO RURAL",
+    "label": "PUERTA AL LLANO RURAL"
+  },
+  {
+    "value": "PUERTA DE TEJA",
+    "label": "PUERTA DE TEJA"
+  },
+  {
+    "value": "QUESADA",
+    "label": "QUESADA"
+  },
+  {
+    "value": "QUIBA",
+    "label": "QUIBA"
+  },
+  {
+    "value": "QUIBA RURAL",
+    "label": "QUIBA RURAL"
+  },
+  {
+    "value": "QUINTA MUTIS",
+    "label": "QUINTA MUTIS"
+  },
+  {
+    "value": "QUINTA RAMOS",
+    "label": "QUINTA RAMOS"
+  },
+  {
+    "value": "QUINTAS DEL SUR",
+    "label": "QUINTAS DEL SUR"
+  },
+  {
+    "value": "QUIRIGUA I",
+    "label": "QUIRIGUA I"
+  },
+  {
+    "value": "QUIRIGUA ORIENTAL",
+    "label": "QUIRIGUA ORIENTAL"
+  },
+  {
+    "value": "QUIROGA",
+    "label": "QUIROGA"
+  },
+  {
+    "value": "QUIROGA CENTRAL",
+    "label": "QUIROGA CENTRAL"
+  },
+  {
+    "value": "RAFAEL ESCAMILLA",
+    "label": "RAFAEL ESCAMILLA"
+  },
+  {
+    "value": "RAFAEL NUNEZ",
+    "label": "RAFAEL NUNEZ"
+  },
+  {
+    "value": "RAMAJAL",
+    "label": "RAMAJAL"
+  },
+  {
+    "value": "RAMIREZ",
+    "label": "RAMIREZ"
+  },
+  {
+    "value": "REMANSO SUR",
+    "label": "REMANSO SUR"
+  },
+  {
+    "value": "REMANSO URBANO",
+    "label": "REMANSO URBANO"
+  },
+  {
+    "value": "RENANIA URAPANES",
+    "label": "RENANIA URAPANES"
+  },
+  {
+    "value": "RESTREPO OCCIDENTAL",
+    "label": "RESTREPO OCCIDENTAL"
+  },
+  {
+    "value": "RINCON ALTAMAR",
+    "label": "RINCON ALTAMAR"
+  },
+  {
+    "value": "RINCON DE GALICIA",
+    "label": "RINCON DE GALICIA"
+  },
+  {
+    "value": "RINCON DE LA VALVANERA",
+    "label": "RINCON DE LA VALVANERA"
+  },
+  {
+    "value": "RINCON DE SUBA",
+    "label": "RINCON DE SUBA"
+  },
+  {
+    "value": "RINCON DEL CHICO",
+    "label": "RINCON DEL CHICO"
+  },
+  {
+    "value": "ROMA",
+    "label": "ROMA"
+  },
+  {
+    "value": "SABANA DE TIBABUYES",
+    "label": "SABANA DE TIBABUYES"
+  },
+  {
+    "value": "SABANA DE TIBABUYES NORTE",
+    "label": "SABANA DE TIBABUYES NORTE"
+  },
+  {
+    "value": "SABANA DEL DORADO",
+    "label": "SABANA DEL DORADO"
+  },
+  {
+    "value": "SABANA GRANDE",
+    "label": "SABANA GRANDE"
+  },
+  {
+    "value": "SAGRADO CORAZON",
+    "label": "SAGRADO CORAZON"
+  },
+  {
+    "value": "SALAZAR USME",
+    "label": "SALAZAR USME"
+  },
+  {
+    "value": "SALITRE SUBA",
+    "label": "SALITRE SUBA"
+  },
+  {
+    "value": "SAMORE",
+    "label": "SAMORE"
+  },
+  {
+    "value": "SAMPER",
+    "label": "SAMPER"
+  },
+  {
+    "value": "SAMPER MENDOZA",
+    "label": "SAMPER MENDOZA"
+  },
+  {
+    "value": "SAN ANTONIO DEL MIRADOR",
+    "label": "SAN ANTONIO DEL MIRADOR"
+  },
+  {
+    "value": "SAN ANTONIO NORTE",
+    "label": "SAN ANTONIO NORTE"
+  },
+  {
+    "value": "SAN BENITO",
+    "label": "SAN BENITO"
+  },
+  {
+    "value": "SAN BERNARDINO I",
+    "label": "SAN BERNARDINO I"
+  },
+  {
+    "value": "SAN BERNARDINO II",
+    "label": "SAN BERNARDINO II"
+  },
+  {
+    "value": "SAN BERNARDINO XXII URBANO",
+    "label": "SAN BERNARDINO XXII URBANO"
+  },
+  {
+    "value": "SAN BERNARDINO XXV URBANO",
+    "label": "SAN BERNARDINO XXV URBANO"
+  },
+  {
+    "value": "SAN CARLOS",
+    "label": "SAN CARLOS"
+  },
+  {
+    "value": "SAN CAYETANO",
+    "label": "SAN CAYETANO"
+  },
+  {
+    "value": "SAN CRISTOBAL NORTE",
+    "label": "SAN CRISTOBAL NORTE"
+  },
+  {
+    "value": "SAN DIEGO",
+    "label": "SAN DIEGO"
+  },
+  {
+    "value": "SAN DIEGO-BOSA",
+    "label": "SAN DIEGO-BOSA"
+  },
+  {
+    "value": "SAN FELIPE",
+    "label": "SAN FELIPE"
+  },
+  {
+    "value": "SAN FELIPE DE USME",
+    "label": "SAN FELIPE DE USME"
+  },
+  {
+    "value": "SAN FRANCISCO",
+    "label": "SAN FRANCISCO"
+  },
+  {
+    "value": "SAN FRANCISCO RURAL",
+    "label": "SAN FRANCISCO RURAL"
+  },
+  {
+    "value": "SAN GABRIEL NORTE",
+    "label": "SAN GABRIEL NORTE"
+  },
+  {
+    "value": "SAN IGNACIO",
+    "label": "SAN IGNACIO"
+  },
+  {
+    "value": "SAN ISIDRO",
+    "label": "SAN ISIDRO"
+  },
+  {
+    "value": "SAN ISIDRO RURAL",
+    "label": "SAN ISIDRO RURAL"
+  },
+  {
+    "value": "SAN ISIDRO RURAL II",
+    "label": "SAN ISIDRO RURAL II"
+  },
+  {
+    "value": "SAN JAVIER",
+    "label": "SAN JAVIER"
+  },
+  {
+    "value": "SAN JORGE SUR",
+    "label": "SAN JORGE SUR"
+  },
+  {
+    "value": "SAN JOSE DE FONTIBON",
+    "label": "SAN JOSE DE FONTIBON"
+  },
+  {
+    "value": "SAN JOSE DE USAQUEN",
+    "label": "SAN JOSE DE USAQUEN"
+  },
+  {
+    "value": "SAN JOSE DEL PRADO",
+    "label": "SAN JOSE DEL PRADO"
+  },
+  {
+    "value": "SAN JOSE SUR",
+    "label": "SAN JOSE SUR"
+  },
+  {
+    "value": "SAN JOSE V SECTOR",
+    "label": "SAN JOSE V SECTOR"
+  },
+  {
+    "value": "SAN JUAN BAUTISTA",
+    "label": "SAN JUAN BAUTISTA"
+  },
+  {
+    "value": "SAN LUIS ALTOS DEL CABO RURAL II",
+    "label": "SAN LUIS ALTOS DEL CABO RURAL II"
+  },
+  {
+    "value": "SAN MARTIN",
+    "label": "SAN MARTIN"
+  },
+  {
+    "value": "SAN MARTIN SUR",
+    "label": "SAN MARTIN SUR"
+  },
+  {
+    "value": "SAN MIGUEL",
+    "label": "SAN MIGUEL"
+  },
+  {
+    "value": "SAN PEDRO DE LOS ROBLES",
+    "label": "SAN PEDRO DE LOS ROBLES"
+  },
+  {
+    "value": "SAN PEDRO SUR",
+    "label": "SAN PEDRO SUR"
+  },
+  {
+    "value": "SAN RAFAEL INDUSTRIAL",
+    "label": "SAN RAFAEL INDUSTRIAL"
+  },
+  {
+    "value": "SAN VICENTE FERRER",
+    "label": "SAN VICENTE FERRER"
+  },
+  {
+    "value": "SAN VICTORINO",
+    "label": "SAN VICTORINO"
+  },
+  {
+    "value": "SANTA ANA",
+    "label": "SANTA ANA"
+  },
+  {
+    "value": "SANTA ANA OCCIDENTAL",
+    "label": "SANTA ANA OCCIDENTAL"
+  },
+  {
+    "value": "SANTA ANA SUR",
+    "label": "SANTA ANA SUR"
+  },
+  {
+    "value": "SANTA BARBARA",
+    "label": "SANTA BARBARA"
+  },
+  {
+    "value": "SANTA BARBARA CENTRAL",
+    "label": "SANTA BARBARA CENTRAL"
+  },
+  {
+    "value": "SANTA BARBARA ORIENTAL",
+    "label": "SANTA BARBARA ORIENTAL"
+  },
+  {
+    "value": "SANTA CECILIA DE SUBA I",
+    "label": "SANTA CECILIA DE SUBA I"
+  },
+  {
+    "value": "SANTA CECILIA PUENTE NORTE",
+    "label": "SANTA CECILIA PUENTE NORTE"
+  },
+  {
+    "value": "SANTA FE BOSA",
+    "label": "SANTA FE BOSA"
+  },
+  {
+    "value": "SANTA HELENA",
+    "label": "SANTA HELENA"
+  },
+  {
+    "value": "SANTA HELENITA",
+    "label": "SANTA HELENITA"
+  },
+  {
+    "value": "SANTA INES",
+    "label": "SANTA INES"
+  },
+  {
+    "value": "SANTA ISABEL",
+    "label": "SANTA ISABEL"
+  },
+  {
+    "value": "SANTA ISABEL SUR",
+    "label": "SANTA ISABEL SUR"
+  },
+  {
+    "value": "SANTA LIBRADA",
+    "label": "SANTA LIBRADA"
+  },
+  {
+    "value": "SANTA LIBRADA NORTE",
+    "label": "SANTA LIBRADA NORTE"
+  },
+  {
+    "value": "SANTA LUCIA",
+    "label": "SANTA LUCIA"
+  },
+  {
+    "value": "SANTA MATILDE",
+    "label": "SANTA MATILDE"
+  },
+  {
+    "value": "SANTA MONICA",
+    "label": "SANTA MONICA"
+  },
+  {
+    "value": "SANTA RITA DE SUBA",
+    "label": "SANTA RITA DE SUBA"
+  },
+  {
+    "value": "SANTA ROSA",
+    "label": "SANTA ROSA"
+  },
+  {
+    "value": "SANTA SOFIA",
+    "label": "SANTA SOFIA"
+  },
+  {
+    "value": "SANTA TERESA",
+    "label": "SANTA TERESA"
+  },
+  {
+    "value": "SANTA TERESA DE SUBA",
+    "label": "SANTA TERESA DE SUBA"
+  },
+  {
+    "value": "SANTA TERESITA",
+    "label": "SANTA TERESITA"
+  },
+  {
+    "value": "SANTA VIVIANA",
+    "label": "SANTA VIVIANA"
+  },
+  {
+    "value": "SANTANDER",
+    "label": "SANTANDER"
+  },
+  {
+    "value": "SANTIAGO PEREZ",
+    "label": "SANTIAGO PEREZ"
+  },
+  {
+    "value": "SAUCEDAL",
+    "label": "SAUCEDAL"
+  },
+  {
+    "value": "SEMINARIO",
+    "label": "SEMINARIO"
+  },
+  {
+    "value": "SENA",
+    "label": "SENA"
+  },
+  {
+    "value": "SERRANIAS",
+    "label": "SERRANIAS"
+  },
+  {
+    "value": "SEVILLA",
+    "label": "SEVILLA"
+  },
+  {
+    "value": "SIBERIA",
+    "label": "SIBERIA"
+  },
+  {
+    "value": "SIBERIA CENTRAL",
+    "label": "SIBERIA CENTRAL"
+  },
+  {
+    "value": "SIERRA MORENA",
+    "label": "SIERRA MORENA"
+  },
+  {
+    "value": "SIERRA MORENA II",
+    "label": "SIERRA MORENA II"
+  },
+  {
+    "value": "SIETE DE AGOSTO",
+    "label": "SIETE DE AGOSTO"
+  },
+  {
+    "value": "SIMON BOLIVAR",
+    "label": "SIMON BOLIVAR"
+  },
+  {
+    "value": "SOCIEGO",
+    "label": "SOCIEGO"
+  },
+  {
+    "value": "SOSIEGO SUR",
+    "label": "SOSIEGO SUR"
+  },
+  {
+    "value": "SOTAVENTO",
+    "label": "SOTAVENTO"
+  },
+  {
+    "value": "SUCRE",
+    "label": "SUCRE"
+  },
+  {
+    "value": "SURAMERICA",
+    "label": "SURAMERICA"
+  },
+  {
+    "value": "TABORA",
+    "label": "TABORA"
+  },
+  {
+    "value": "TAIRONA",
+    "label": "TAIRONA"
+  },
+  {
+    "value": "TECHO",
+    "label": "TECHO"
+  },
+  {
+    "value": "TEUSAQUILLO",
+    "label": "TEUSAQUILLO"
+  },
+  {
+    "value": "TIBABITA",
+    "label": "TIBABITA"
+  },
+  {
+    "value": "TIBABITA I",
+    "label": "TIBABITA I"
+  },
+  {
+    "value": "TIBABITA RURAL",
+    "label": "TIBABITA RURAL"
+  },
+  {
+    "value": "TIBABUYES",
+    "label": "TIBABUYES"
+  },
+  {
+    "value": "TIBABUYES II",
+    "label": "TIBABUYES II"
+  },
+  {
+    "value": "TIBABUYES OCCIDENTAL",
+    "label": "TIBABUYES OCCIDENTAL"
+  },
+  {
+    "value": "TIBABUYES UNIVERSAL",
+    "label": "TIBABUYES UNIVERSAL"
+  },
+  {
+    "value": "TIBAQUE",
+    "label": "TIBAQUE"
+  },
+  {
+    "value": "TIBAQUE URBANO",
+    "label": "TIBAQUE URBANO"
+  },
+  {
+    "value": "TIHUAQUE",
+    "label": "TIHUAQUE"
+  },
+  {
+    "value": "TIHUAQUE RURAL",
+    "label": "TIHUAQUE RURAL"
+  },
+  {
+    "value": "TIMIZA A",
+    "label": "TIMIZA A"
+  },
+  {
+    "value": "TIMIZA B",
+    "label": "TIMIZA B"
+  },
+  {
+    "value": "TINTALA",
+    "label": "TINTALA"
+  },
+  {
+    "value": "TINTALITO",
+    "label": "TINTALITO"
+  },
+  {
+    "value": "TOCAIMITA ORIENTAL I",
+    "label": "TOCAIMITA ORIENTAL I"
+  },
+  {
+    "value": "TOCAIMITA SUR",
+    "label": "TOCAIMITA SUR"
+  },
+  {
+    "value": "TOCAREMA",
+    "label": "TOCAREMA"
+  },
+  {
+    "value": "TORCA I",
+    "label": "TORCA I"
+  },
+  {
+    "value": "TOSCANA",
+    "label": "TOSCANA"
+  },
+  {
+    "value": "TTES DE COLOMBIA",
+    "label": "TTES DE COLOMBIA"
+  },
+  {
+    "value": "TUNA RURAL",
+    "label": "TUNA RURAL"
+  },
+  {
+    "value": "TUNAL ORIENTAL",
+    "label": "TUNAL ORIENTAL"
+  },
+  {
+    "value": "TUNDAMA",
+    "label": "TUNDAMA"
+  },
+  {
+    "value": "TUNJUELITO",
+    "label": "TUNJUELITO"
+  },
+  {
+    "value": "USAQUEN",
+    "label": "USAQUEN"
+  },
+  {
+    "value": "USATAMA",
+    "label": "USATAMA"
+  },
+  {
+    "value": "VALLADOLID",
+    "label": "VALLADOLID"
+  },
+  {
+    "value": "VEINTE DE JULIO",
+    "label": "VEINTE DE JULIO"
+  },
+  {
+    "value": "VELODROMO",
+    "label": "VELODROMO"
+  },
+  {
+    "value": "VENECIA",
+    "label": "VENECIA"
+  },
+  {
+    "value": "VENECIA OCCIDENTAL",
+    "label": "VENECIA OCCIDENTAL"
+  },
+  {
+    "value": "VERACRUZ",
+    "label": "VERACRUZ"
+  },
+  {
+    "value": "VERAGUAS",
+    "label": "VERAGUAS"
+  },
+  {
+    "value": "VERBENAL SAN ANTONIO",
+    "label": "VERBENAL SAN ANTONIO"
+  },
+  {
+    "value": "VEREDA EL TINTAL URBANO",
+    "label": "VEREDA EL TINTAL URBANO"
+  },
+  {
+    "value": "VEREDA SUBA CERROS II",
+    "label": "VEREDA SUBA CERROS II"
+  },
+  {
+    "value": "VEREDA SUBA NARANJOS",
+    "label": "VEREDA SUBA NARANJOS"
+  },
+  {
+    "value": "VERONA",
+    "label": "VERONA"
+  },
+  {
+    "value": "VERSALLES FONTIBON",
+    "label": "VERSALLES FONTIBON"
+  },
+  {
+    "value": "VICTORIA NORTE",
+    "label": "VICTORIA NORTE"
+  },
+  {
+    "value": "VILLA ALCAZAR",
+    "label": "VILLA ALCAZAR"
+  },
+  {
+    "value": "VILLA ALSACIA",
+    "label": "VILLA ALSACIA"
+  },
+  {
+    "value": "VILLA ALSACIA II",
+    "label": "VILLA ALSACIA II"
+  },
+  {
+    "value": "VILLA AMALIA",
+    "label": "VILLA AMALIA"
+  },
+  {
+    "value": "VILLA ANITA",
+    "label": "VILLA ANITA"
+  },
+  {
+    "value": "VILLA ANNY I",
+    "label": "VILLA ANNY I"
+  },
+  {
+    "value": "VILLA ANNY II",
+    "label": "VILLA ANNY II"
+  },
+  {
+    "value": "VILLA CANDELARIA",
+    "label": "VILLA CANDELARIA"
+  },
+  {
+    "value": "VILLA DE LOS ALPES",
+    "label": "VILLA DE LOS ALPES"
+  },
+  {
+    "value": "VILLA DE LOS ALPES I",
+    "label": "VILLA DE LOS ALPES I"
+  },
+  {
+    "value": "VILLA DEL PRADO",
+    "label": "VILLA DEL PRADO"
+  },
+  {
+    "value": "VILLA DEL RIO",
+    "label": "VILLA DEL RIO"
+  },
+  {
+    "value": "VILLA ELISA",
+    "label": "VILLA ELISA"
+  },
+  {
+    "value": "VILLA GLADYS",
+    "label": "VILLA GLADYS"
+  },
+  {
+    "value": "VILLA HERMOSA",
+    "label": "VILLA HERMOSA"
+  },
+  {
+    "value": "VILLA LUZ",
+    "label": "VILLA LUZ"
+  },
+  {
+    "value": "VILLA MARIA",
+    "label": "VILLA MARIA"
+  },
+  {
+    "value": "VILLA MAYOR ORIENTAL",
+    "label": "VILLA MAYOR ORIENTAL"
+  },
+  {
+    "value": "VILLA NELLY III SECTOR",
+    "label": "VILLA NELLY III SECTOR"
+  },
+  {
+    "value": "VILLA SAGRARIO",
+    "label": "VILLA SAGRARIO"
+  },
+  {
+    "value": "VILLAS DE ALCALA",
+    "label": "VILLAS DE ALCALA"
+  },
+  {
+    "value": "VILLAS DE GRANADA",
+    "label": "VILLAS DE GRANADA"
+  },
+  {
+    "value": "VILLAS DEL PROGRESO",
+    "label": "VILLAS DEL PROGRESO"
+  },
+  {
+    "value": "VILLAS EL DIAMANTE",
+    "label": "VILLAS EL DIAMANTE"
+  },
+  {
+    "value": "VISION DE ORIENTE",
+    "label": "VISION DE ORIENTE"
+  },
+  {
+    "value": "VITELMA",
+    "label": "VITELMA"
+  },
+  {
+    "value": "VOTO NACIONAL",
+    "label": "VOTO NACIONAL"
+  },
+  {
+    "value": "YOMASA NORTE",
+    "label": "YOMASA NORTE"
+  },
+  {
+    "value": "ZONA FRANCA",
+    "label": "ZONA FRANCA"
+  }
+]
+}

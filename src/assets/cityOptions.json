@@ -1,7 +1,7 @@
 {
   "options": [
-    {  "value": "Bogota", "label": "Bogotá" },
-    {  "value": "Medellin", "label": "Medellín" },
-    {  "value": "Cali", "label": "Cali" }
+    {  "value": "Bogota", "label": "Bogotá", "key": "Estrato", "place_name": "SectCatast" },
+    {  "value": "Medellin", "label": "Medellín", "key": "Estrato_Pr", "place_name": "NOMBRE" },
+    {  "value": "Cali", "label": "Cali", "key": "estrato_social", "place_name": "betty" }
   ]
 }
