@@ -1,0 +1,64 @@
+div.main-page {
+    margin: 20px;
+}
+
+div.container {
+    background: #ffffff;
+    border-top: none;
+    box-sizing: border-box;
+    /*box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .22);*/
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 20px;
+}
+
+div.layers-container {
+    grid-column: 4 / 9;
+    grid-row: 2 / 3;
+}
+
+h1,text {
+    font-family: 'Avenir Next';
+}
+
+text.calibri {
+    /*font-family: 'Calibri';*/
+
+}
+
+.subunit-boundary {
+    fill: none;
+    stroke: #777;
+    stroke-dasharray: 2,2;
+    stroke-linejoin: round;
+}
+
+/*.subunit-boundary.GRANADA {*/
+/*    stroke: red;*/
+/*    stroke-width: 4px;*/
+/*}*/
+
+
+.state, .subunits {
+    /*fill: #ccc;*/
+}
+
+.state-boundary {
+    fill: blue;
+    stroke: #fff;
+}
+
+.state.selected, .subunit-boundary {
+    stroke: orange;
+    stroke-width: .075em;
+    stroke-dasharray: 10,1;
+    stroke-linejoin: round;
+    fill-opacity: .6;
+    /*opacity: .6;*/
+}
+
+div.main-page {
+    display: grid;
+    grid-template-rows: repeat(16, 100px);
+    grid-template-columns: repeat(12, 1fr);
+}
